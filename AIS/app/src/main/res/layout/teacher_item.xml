@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="#131920"
+    android:cacheColorHint="@android:color/transparent" >
+
+    <LinearLayout
+        android:id="@+id/title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_header"
+        android:gravity="left|center_vertical"
+        android:orientation="horizontal"
+        android:padding="10sp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Class "
+            android:textColor="#b5bec8"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/course_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-------"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_layout"
+        android:layout_marginLeft="5sp"
+        android:layout_marginBottom="5sp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/bookicon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:padding="5sp"
+            android:src="@drawable/book_icon" />
+
+        <TextView
+            android:id="@+id/description_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/bookicon"
+            android:layout_toLeftOf="@+id/img"
+            android:gravity="center_vertical"
+            android:padding="5sp"
+            android:text="----------"
+            android:textColor="#abb8c4"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="5sp"
+            android:src="@drawable/arrow_right" />
+    </RelativeLayout>
+</RelativeLayout>

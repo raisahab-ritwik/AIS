@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/box" >
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="60sp"
+            android:layout_height="60sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="8sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/profile_circle" />
+
+        <TextView
+            android:id="@+id/name_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/image_view"
+            android:layout_centerHorizontal="true"
+            android:paddingLeft="5sp"
+            android:paddingRight="5sp"
+            android:text="----Name------"
+            android:textColor="#dddfe2"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/class_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/name_txt"
+            android:layout_below="@+id/name_txt"
+            android:text="Program: "
+            android:textColor="#7d838a"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/roll_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/image_view"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/class_label"
+            android:paddingLeft="5sp"
+            android:paddingRight="5sp"
+            android:text="--roll--"
+            android:textColor="#b3b4b7"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/rollno_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/roll_txt"
+            android:layout_alignBottom="@+id/roll_txt"
+            android:layout_alignLeft="@+id/class_label"
+            android:text="Roll No: "
+            android:textColor="#7d838a"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/class_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/roll_txt"
+            android:layout_alignLeft="@+id/roll_txt"
+            android:paddingLeft="5sp"
+            android:paddingRight="5sp"
+            android:text="--class--"
+            android:textColor="#b3b4b7"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/name_txt"
+            android:layout_below="@+id/roll_txt"
+            android:clickable="true"
+            android:padding="20sp"
+            android:src="@drawable/off" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

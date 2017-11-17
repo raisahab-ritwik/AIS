@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/animator/card_flip_left_out.xml"
+    }
+]

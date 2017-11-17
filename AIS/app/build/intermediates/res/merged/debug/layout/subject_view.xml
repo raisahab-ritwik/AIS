@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg"
+    android:padding="5dp"
+    tools:context="app.num.achartenginebarchart.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/chart_container"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textViewSubjectName"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/chart_container"
+            android:layout_toRightOf="@+id/chart_container"
+            android:orientation="horizontal"
+            android:padding="10dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="1.0"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/imageViewArrow"
+                    android:layout_width="50dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/redarrow" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="1.0"
+                android:gravity="center_vertical|center_horizontal">
+
+                <TextView
+                    android:id="@+id/textViewMarksDifference"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/imageViewArrow"
+                    android:layout_alignParentRight="true"
+                    android:layout_toEndOf="@+id/imageViewArrow"
+                    android:layout_toRightOf="@+id/imageViewArrow"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/score_color"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textViewSessionName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textViewSubjectName"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/textViewSubjectName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/imageView"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FFFFFF" />
+
+        <!--<RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Class Topper"
+                android:id="@+id/textViewTopper"
+                android:textColor="#FFFFFF"
+                android:layout_toLeftOf="@+id/textViewStudentName"
+                android:layout_toStartOf="@+id/textViewStudentName"
+                android:layout_alignParentTop="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:id="@+id/textViewStudentName"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:textColor="#FFFFFF"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textViewStudentName"
+                android:src="@drawable/bar" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:id="@+id/textViewSubjectName"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/imageView"
+                android:textColor="#FFFFFF"/>
+
+        </RelativeLayout>-->
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangle"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout_student_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/textView_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView_roll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Roll Number:"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/dialog_txt_remarks"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/textbox"
+        android:hint="Remarks"
+        android:padding="10dp"
+        android:textColor="@android:color/white" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/select_file_for_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="40sp"
+        android:layout_gravity="right"
+        android:layout_margin="10sp"
+        android:background="@drawable/graph_button_style"
+        android:drawableLeft="@drawable/attachment_icon"
+        android:gravity="center_vertical"
+        android:padding="5sp"
+        android:scaleType="fitCenter"
+        android:text="@string/attachment"
+        android:textColor="#4b586c"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp" >
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:background="@drawable/btn_att_submit"
+            android:padding="5dp"
+            android:text="Submit"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_att_submit"
+            android:padding="5dp"
+            android:text="Cancel"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

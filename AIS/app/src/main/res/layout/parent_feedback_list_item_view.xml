@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rectangle"
+    android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view4"
+                android:clickable="false">
+
+                <TextView
+                    android:id="@+id/textView_title"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:padding="5dp"
+                    android:text="Teacher's Name :"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/textViewName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/textView_title"
+                    android:layout_toRightOf="@id/textView_title"
+                    android:padding="5dp"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_desc"
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:layout_below="@+id/layout_title"
+                android:clickable="false"
+                >
+
+                <TextView
+                    android:id="@+id/textdesc"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="Rating :"
+                    android:padding="5dp"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/textViewRating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/textdesc"
+                    android:layout_toRightOf="@id/textdesc"
+                    android:padding="5dp"
+                    android:visibility="gone"
+                    android:textColor="@android:color/white" />
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ratingBar"
+                    android:stepSize="1.0"
+                    android:gravity="center_vertical"
+                    android:progressDrawable="@drawable/filled_rating"
+                    android:layout_toEndOf="@id/textdesc"
+                    android:layout_toRightOf="@id/textdesc"/>
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/layout_created"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingBottom="5dp"
+                android:clickable="false"
+                android:layout_below="@+id/layout_desc" >
+
+                <TextView
+                    android:id="@+id/textcreated"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="Comment :"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/textViewComment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/textcreated"
+                    android:layout_toRightOf="@id/textcreated"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewDelete"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/delete"
+        android:padding="5dp" />
+
+</RelativeLayout>

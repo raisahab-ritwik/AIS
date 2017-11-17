@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:layout_marginBottom="10sp" >
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2sp"
+        android:background="#1a222d" >
+
+        <ImageView
+            android:id="@+id/image_vieww"
+            android:layout_width="80sp"
+            android:layout_height="80sp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/blog_pic" />
+
+        <TextView
+            android:id="@+id/title_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image_vieww"
+            android:layout_centerHorizontal="true"
+            android:text="Title"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/desc_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title_txt"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="Description of Blog"
+            android:textColor="#96a1ad"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/black_border"
+            android:layout_width="match_parent"
+            android:layout_height="1sp"
+            android:layout_below="@+id/desc_txt"
+            android:layout_centerHorizontal="true"
+            android:background="#5a6878" />
+        
+
+        <TextView
+            android:id="@+id/date_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/image_vieww"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="Date"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/creator_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@+id/date_txt"
+            android:layout_below="@+id/date_txt"
+            android:layout_toRightOf="@+id/image_vieww"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="Created By"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+    
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/title_layout"
+            android:padding="5dp"
+            android:text="Comments"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/banner"
+        android:layout_alignParentTop="true"
+        android:dividerHeight="10sp"
+        android:divider="@android:color/transparent"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+    </ListView>
+    <Button
+        android:id="@+id/report_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_att_submit"
+        android:gravity="center"
+        android:visibility="gone"
+        android:text="@string/report_card"
+        android:layout_above="@+id/adImageView"
+        android:textColor="@android:color/white" />
+    <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/app_logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/banner"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/banner"
+        android:background="@android:color/white"
+        android:scaleType="fitCenter"
+        android:src="@drawable/footer"
+        android:textColor="#4b586c"
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+
+
+
+
+</RelativeLayout>

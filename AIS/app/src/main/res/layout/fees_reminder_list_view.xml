@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:cacheColorHint="@android:color/transparent"
+    android:padding="6dp" >
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rectangle" >
+
+        <TextView
+            android:id="@+id/txtRemiderDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="Reminder Date :"
+            android:textColor="#a4abb4"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtRemimder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/txtRemiderDate"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtDueDateLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtRemiderDate"
+            android:layout_below="@+id/txtRemiderDate"
+            android:maxLines="2"
+            android:padding="5sp"
+            android:text="Payment Due Date :"
+            android:textColor="#a4abb4" />
+
+        <TextView
+            android:id="@+id/txtDueDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/txtDueDateLabel"
+            android:layout_alignBottom="@+id/txtDueDateLabel"
+            android:layout_toRightOf="@+id/txtDueDateLabel"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtGraceDateLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtDueDateLabel"
+            android:layout_below="@+id/txtDueDateLabel"
+            android:maxLines="2"
+            android:padding="5sp"
+            android:text="Payment Grace Date :"
+            android:textColor="#a4abb4" />
+
+        <TextView
+            android:id="@+id/txtGraceDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/txtGraceDateLabel"
+            android:layout_alignBottom="@+id/txtGraceDateLabel"
+            android:layout_toRightOf="@+id/txtGraceDateLabel"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+        <LinearLayout
+            android:id="@+id/ll_remindermsg"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:layout_below="@+id/txtGraceDateLabel"
+            android:layout_height="wrap_content">
+         <TextView
+            android:id="@+id/txt_reminderMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:maxLines="2"
+            android:padding="5sp"
+            android:text="Reminder Message :"
+            android:textColor="#a4abb4" />
+
+        <TextView
+            android:id="@+id/txtReminderMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        </LinearLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:src="@drawable/arrow_right"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

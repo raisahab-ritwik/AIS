@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/rectangle_for_bullatine"
+    android:cacheColorHint="@android:color/transparent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_txt"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="2dp"
+        android:paddingBottom="5dp" >
+
+        <TextView
+            android:id="@+id/description_txt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/next"
+            android:background="#262e38"
+            android:maxLines="3"
+            android:padding="8dp"
+            android:paddingLeft="5dp"
+            android:text="Teached By: Saad Siddique"
+            android:textColor="#dddfe2" />
+
+        <ImageView
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/description_txt"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/description_txt"
+            android:background="#262e38"
+            android:padding="5dp"
+            android:src="@drawable/arrow_right" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/title_txt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/blue_button"
+        android:gravity="left|center"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:text="Mobile Application Development"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>

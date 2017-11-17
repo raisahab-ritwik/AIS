@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    tools:context="com.knwedu.ourschool.HomeInformationActivity" >
+
+    <RelativeLayout
+        android:id="@+id/header_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="50sp"
+            android:text="Help"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/details"
+        android:layout_below="@+id/header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tutorial"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/blue_button"
+            android:drawableRight="@drawable/arrow_right"
+            android:drawableLeft="@drawable/tutorialicon"
+            android:drawablePadding="5sp"
+            android:gravity="left|center_vertical"
+            android:padding="5sp"
+            android:text="Tutorial"
+            android:textColor="#b9c3ce" />
+        <TextView
+            android:id="@+id/policy"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:background="@drawable/blue_button"
+            android:drawableRight="@drawable/arrow_right"
+            android:drawableLeft="@drawable/privacypolicy"
+            android:drawablePadding="5sp"
+            android:gravity="left|center_vertical"
+            android:padding="5sp"
+            android:text="Privacy Policy"
+            android:textColor="#b9c3ce" />
+    </LinearLayout>
+    </RelativeLayout>

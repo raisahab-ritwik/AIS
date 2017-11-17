@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/signin.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/signin.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/activity_web_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/menu/activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/activity_forgot_password.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/menu/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/teacher_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/teacher_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/menu_search_institution.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/menu_search_institution.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/sdk_menu.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/menu/sdk_menu.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/menu/parent_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/menu/parent_main.xml"
+    }
+]

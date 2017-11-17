@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KnwEdu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="sign_in">Sign In</string>
+    <string name="next_button">Next</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="add">Add</string>
+    <string name="username">Username</string>
+    <string name="subdomain">Sub-domain</string>
+    <string name="verify_code">Enter Code</string>
+    <string name="type_institution_name">Search for your institution</string>
+    <string name="comments">Comments</string>
+    <string name="password">Password</string>
+    <string name="tagline">Enjoy One Touch Academics Like Never Before</string>
+    <string name="description">Description:</string>
+    <string name="program">Program:</string>
+    <string name="class_facilities">Class Facilities</string>
+    <string name="class_work">Course Work</string>
+    <string name="campus_activity">Campus Activity</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_org">Change Institution?</string>
+    <string name="fetch_institutions">Fetching Institutions</string>
+    <string name="fetch_classes">Fetching Classes</string>
+    <string name="fetch_program">Fetching Program Term</string>
+    <string name="registration_progress">Registration is in progress</string>
+    <string name="organization_set">Setting Up Your Institution</string>
+    <string name="organization_initialize">Initializing Organization</string>
+    <string name="results">Results</string>
+    <string name="offline">Offline</string>
+    <string name="fetching_offline">Activating Offline Mode</string>
+    <string name="enter">Enter</string>
+    <string name="submit_attendence">Submit Attendance</string>
+    <string name="create_announcement">Create Announcement</string>
+    <string name="create_class_work">Create Coursework</string>
+    <string name="announcements">Announcement</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="please_check_internet_connection">Please try with better internet connection</string>
+    <string name="error">Error</string>
+    <string name="publish">Publish</string>
+    <string name="add_results">Add Results</string>
+    <string name="code">Code:</string>
+    <string name="enter_title_topic">Enter Title/Topic</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="create_activities">Create Activities</string>
+    <string name="submit_result">Submit Result</string>
+    <string name="submit_assignment">Submit Assignment</string>
+    <string name="create_assignment">Create Assignment</string>
+    <string name="report_card">Report Card</string>
+    <string name="behaviour">Behaviour</string>
+    <string name="daily_diary">Daily Diary</string>
+    <string name="monthly">Monthly</string>
+    <string name="weekly">Weekly</string>
+    <string name="all">All</string>
+    <string name="choose_password">Choose password</string>
+    <string name="institute_provided_password">Insert institute provided password</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_class">Student Class</string>
+    <string name="student_section">Student Section</string>
+
+    <string name="teacher_class">Class</string>
+    <string name="teacher_section">Section</string>
+    <string name="teacher_subject">Subject</string>
+
+    <string name="marks">Mark</string>
+
+    <string name="attendance">Attendance</string>
+    <string name="checkmailandphone">Updating Email &amp; Phone</string>
+    <string name="submitmailandphone">Submit Mailid and Phone</string>
+    <string name="signing_in">Signing In</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="please_select_institution">Please select Institution</string>
+    <string name="please_enter_domain">Please Enter Institution name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="enter_correct_username">Enter Correct Username</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="userid">User ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="alt_email">Alternate Email</string>
+    <string name="religion">Religion</string>
+    <string name="pincode">Pin Code</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="dob">Date of Birth</string>
+    <string name="reg_no">Registration No</string>
+    <string name="change_password">Change Password</string>
+    <string name="profile">Profile</string>
+    <string name="classes_and_subject_list">Classes and Subjects List</string>
+    <string name="classs">Class</string>
+    <string name="test">Internal</string>
+    <string name="class_roll">Class Roll</string>
+    <string name="ailment">Ailment</string>
+    <string name="parent_name">Parent Name</string>
+    <string name="parent_email">Parent Email</string>
+    <string name="parent_phone">Parent Phone</string>
+    <string name="hostel">Hostel</string>
+    <string name="transport">Transport</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="class_fellows">Class Fellows</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="update_password">Update Password</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="enter_new_confirm_password">Confirm New Password</string>
+    <string name="new_and_confirm_password_do_not_match">New and Confirm Password does not match</string>
+    <string name="user_information">User Information</string>
+    <string name="loading_image">Loading Image</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="passcode">Passcode</string>
+    <string name="classes_and_subjects">Classes and Subjects</string>
+    <string name="image_has_been_uploaded_successfully">Image has been uploaded successfully</string>
+    <string name="image_has_not_been_uploaded_or_was_interrupted_please_try_again">Image has not been uploaded or was interrupted, please try again</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="children">Children</string>
+    <string name="students">Students</string>
+    <string name="number_of_comments_p">No. of Comments</string>
+    <string name="educational_qualification"> Educational Qualification</string>
+    <string name="other_qualification">Other Qualification</string>
+    <string name="date_of_joining">Date of Joining</string>
+
+    <string name="submit">Submit</string>
+    <string name="attachment">Attachment</string>
+    <!--   <string name="InMobi_Property_Id">427e8beee34a4ffcbe3ffb1f54cdb02a</string>
+ -->
+    <string name="InMobi_Property_Id">f03b98c3fd9644079f840a932e380ed8</string>
+    <string name="news">News</string>
+
+    <string name="edit">Edit</string>
+    <string name="edit_weekly">Edit Weekly</string>
+    <string name="edit_daily">Edit Daily</string>
+    <string name="submit_edit">Submit</string>
+    <string name="subjects">Subjects</string>
+    <string name="my_children">My Children</string>
+    <string name="teacher_name">Teacher Name</string>
+
+    <string name="subject">Subject</string>
+    <string name="graph">Graph</string>
+    <string name="request_leave">Request Leave</string>
+    <string name="request_ID_card">Request ID Card</string>
+    <string name="request_uniform">Request Uniform</string>
+    <string name="request_books">Request Books</string>
+    <string name="special_request">Special Request</string>
+    <string name="requests_status">Request Status</string>
+    <string name="parent_request">Parent Request</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="leave_request">Request Leave</string>
+    <string name="pending">Pending</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="requests">Requests</string>
+    <string name="exam">Exam</string>
+    <string name="exam_results">Exam Results</string>
+
+    <string name="sign_in_u"><u>Sign In</u></string>
+    <string name="login">Sign In</string>
+    <string name="class_section">My Class Sections</string>
+    <string name="add_more_class">Add more Child</string>
+    <string name="Teachers">Teacher Information</string>
+
+
+    <string name="blog">Blog</string>
+    <string name="assignments">Assignment</string>
+    <string name="subject_schedule">Lesson Plan</string>
+    <string name="bulletin">Bulletin</string>
+    <string name="career">Career</string>
+    <string name="jobs">Jobs</string>
+    <string name="campus">Campus Selection</string>
+    <string name="swap">Swap Children</string>
+    <string name="programName">Program Name</string>
+    <string name="termName">Term Name</string>
+    <string name="special_class">Special Class</string>
+    <string name="schedule">Schedule</string>
+    <string name="time_table">Time Table</string>
+
+    <string name="unknown_response">Please Check your  Internet Connection</string>
+
+    <string name="reply">Reply</string>
+    <string name="insert_student_name">Insert Student name</string>
+    <string name="insert_parent_name">Insert Parent name</string>
+    <string name="url">{"result":"\"1\"","total":15,"url":"\"http://119.81.123.116/knwedu_mobile/\"","file_name":"\"teacher_\""}</string>
+
+
+    <string-array name="menu_list">
+        <item>My Profile</item>
+        <item>Academics</item>
+        <item>Lesson Plan</item>
+        <item>Time Table</item>
+        <item>My Assignment</item>
+        <item>My Quiz</item>
+        <item>My Activity</item>
+        <item>Exams</item>
+        <item>Coursework</item>
+        <item>Announcement</item>
+        <item>Bulletins</item>
+        <item>Organization</item>
+        <item>Attendance Info</item>
+        <item>Directory</item>
+        <item>Blog</item>
+        <item>Sign Out</item>
+    </string-array>
+    <string-array name="menu_list_parent">
+        <item>Child Profile</item>
+        <item>Academics</item>
+        <item>Lesson Plan</item>
+        <item>Time Table</item>
+        <item>Assignment</item>
+        <item>Quiz</item>
+        <item>Activity</item>
+        <item>Exams</item>
+        <item>Coursework</item>
+        <item>Announcement</item>
+        <item>Bulletins</item>
+        <item>Organization</item>
+        <item>Attendance Info</item>
+        <item>Directory</item>
+        <item>Request</item>
+        <item>Children</item>
+        <item>My Profile</item>
+        <item>Blog</item>
+        <item>Sign Out</item>
+    </string-array>
+    <string-array name="menu_list_parent_basic">
+        <item>Child Profile</item>
+        <item>Academics</item>
+        <item>Lesson Plan</item>
+        <item>Time Table</item>
+        <item>Assignment, Quiz &amp; Activity</item>
+        <item>Exam</item>
+        <item>Coursework &amp; Announcement</item>
+        <item>Bulletins</item>
+        <item>Organization</item>
+        <item>Attendance Info</item>
+        <item>Directory</item>
+        <item>Children</item>
+        <item>My Profile</item>
+        <item>Blog</item>
+        <item>Sign Out</item>
+    </string-array>
+    <string-array name="menu_list_teacher">
+        <item>My Profile</item>
+        <item>Attendance</item>
+        <item>Assignment</item>
+        <item>Quiz</item>
+        <item>Activity</item>
+        <item>Announcement</item>
+        <item>Coursework</item>
+        <item>Lesson Plan</item>
+        <item>Bulletin</item>
+        <item>Exams</item>
+        <item>Time Table</item>
+        <item>Directory</item>
+        <item>Blog</item>
+        <item>Synchronize</item>
+        <item>Sign Out</item>
+    </string-array>
+    <string-array name="type_list">
+        <item>Students</item>
+        <item>Teachers</item>
+        <item>Parents</item>
+    </string-array>
+    <string-array name="request_type_list">
+        <item>All Requests</item>
+        <item>Leave Request</item>
+        <item>ID Card Request</item>
+        <item>Uniform Request</item>
+        <item>Books Request</item>
+        <item>Special Request</item>
+    </string-array>
+    <string-array name="institution_type">
+        <item>Select Type</item>
+        <item>School</item>
+        <item>College</item>
+    </string-array>
+    <string-array name="country">
+        <item>India</item>
+        <item>Dubai</item>
+        <item>Bangladesh</item>
+    </string-array>
+    <string-array name="diary_type">
+        <item>School</item>
+        <item>Parent</item>
+    </string-array>
+    <string-array name="diary_type_parent">
+        <item>School</item>
+        <item>Me</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- -Calender View Related -->
+    <string name="day_name_format">EEE</string>
+    <string name="invalid_date">Date must be between %1$s and %2$s.</string>
+    <string name="month_name_format">MMMM yyyy</string>
+    <string name="Done">Done</string>
+    <string name="Customized">Customized</string>
+    <string name="Decorator">Decorator</string>
+    <string name="Hebrew">Hebrew</string>
+    <string name="Arabic">Arabic</string>
+    <string name="CustomView">Custom View</string>
+    <string name="Dialog">Dialog</string>
+    <string name="DisplayOnly">DisplayOnly</string>
+    <string name="Range">Range</string>
+    <string name="Multi">Multi</string>
+    <string name="Single">Single</string>
+
+    <string name="syllabus">Syllabus</string>
+    <string name="title">Title:</string>
+    <string name="web_access">Web Access</string>
+    <string name="webaccess_url">Open the URL (https://www.knwedu.com/webaccess/) on your computer browser and use the below mentioned code to access your web account</string>
+
+    <string name="grade">Select Grade</string>
+    <string name="card">Issue Card</string>
+    <string name="defaultval">Note Description</string>
+
+    <string name="student_wise">Student Wise</string>
+    <string name="section_wise">Section Wise</string>
+
+    <!--Support Mail -->
+    <string name="support">For assistance mail us at support.in@knwedu.com</string>
+    <string name="title_activity_search_institution">SearchInstitutionActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--new aims fees change-->
+    <string name="aimsfeesheader">Fees Module</string>
+
+    <!--new -->
+    <string name="enter_your_emailmobile">Enter Your Email / Mobile Number</string>
+
+
+</resources>

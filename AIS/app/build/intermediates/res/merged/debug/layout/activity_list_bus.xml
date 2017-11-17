@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    tools:context="com.knwedu.ourschool.AisBusListActivity" >
+
+    <RelativeLayout
+        android:id="@+id/header_layout_new"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:text="List Of Buses"
+            android:paddingLeft="50sp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/monthly_weekly_btn"
+            android:background="#7790ab" />
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view3"
+            android:background="#f5f8fb" />
+    </RelativeLayout>
+
+
+
+
+    <ListView
+        android:id="@+id/listview_buslist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/header_layout_new"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="10dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent"
+        android:layout_above="@+id/adImageView">
+    </ListView>
+</RelativeLayout>

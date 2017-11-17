@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/box"
+    android:cacheColorHint="@android:color/transparent"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view4" >
+
+        <TextView
+            android:id="@+id/textView_title"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:padding="5dp"
+            android:text="Title :"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/textView_title"
+            android:layout_toRightOf="@id/textView_title"
+            android:padding="5dp"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_title"
+        >
+
+        <TextView
+            android:id="@+id/textdesc"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="Description:"
+            android:padding="5dp"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/textViewDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/textdesc"
+            android:layout_toRightOf="@id/textdesc"
+            android:padding="5dp"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/layout_created"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_desc" >
+
+        <TextView
+            android:id="@+id/textcreated"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="Created By :"
+            android:padding="5dp"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/textViewCretedBy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/textcreated"
+            android:layout_toRightOf="@id/textcreated"
+            android:padding="5dp"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/layout_given"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_created" >
+
+        <TextView
+            android:id="@+id/textgiven"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="Created Date :"
+            android:padding="5dp"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/textViewCreatedDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/textgiven"
+            android:padding="5dp"
+            android:layout_toRightOf="@id/textgiven"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/layout_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_below="@+id/layout_given" >
+
+        <TextView
+            android:id="@+id/textcomment"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="Comment :"
+            android:padding="5dp"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/textViewComment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/textcomment"
+            android:padding="5dp"
+            android:layout_toRightOf="@id/textcomment"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_comment"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:text="Status"
+        android:textColor="@android:color/white" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewReject"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:src="@drawable/reject"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:id="@+id/imageViewApprove"
+        android:padding="5dp"
+        android:src="@drawable/approve"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/imageViewReject"
+        android:layout_toStartOf="@+id/imageViewReject" />
+
+
+</RelativeLayout>

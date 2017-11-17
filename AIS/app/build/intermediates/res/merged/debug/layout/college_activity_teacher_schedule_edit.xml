@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/header_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="50sp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/header_layout"
+        android:layout_above="@+id/banner"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="-5dp" >
+
+        
+
+        <EditText
+            android:id="@+id/description_edt"
+            android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@+id/select_file_for_upload"
+                android:layout_margin="10dp"
+                android:background="@drawable/textbox"
+                android:gravity="left|top"
+                android:hint="@string/enter_description"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"/>
+        
+        <Button
+                android:id="@+id/select_file_for_upload"
+                android:layout_width="wrap_content"
+                android:layout_height="40sp"
+                android:layout_gravity="right"
+                android:layout_alignParentRight="true"
+                android:layout_above="@+id/submit_btn"
+                android:layout_margin="10sp"
+                android:background="@drawable/graph_button_style"
+                android:drawableLeft="@drawable/attachment_icon"
+                android:gravity="center_vertical"
+                android:padding="5sp"
+                android:scaleType="fitCenter"
+                android:text="@string/attachment"
+                android:textColor="#4b586c"
+                android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/submit_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/btn_att_submit"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/submit_edit" 
+            android:textColor="@android:color/white"/>
+    </RelativeLayout>
+
+     <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id" />
+     
+    <TextView 
+        android:id="@+id/txt_offline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:text="Offline Mode"
+        android:textSize="14sp"
+        android:textColor="@color/offline_mode"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"/>
+     
+</RelativeLayout>

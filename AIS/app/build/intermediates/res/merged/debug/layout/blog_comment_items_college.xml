@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10sp"
+    android:background="@android:color/transparent" >
+
+    <RelativeLayout
+        android:id="@+id/text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp" >
+
+        <ImageView
+            android:id="@+id/comment_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="5sp"
+            android:src="@drawable/comment_icon" />
+
+        <RelativeLayout
+            android:id="@+id/data_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/comment_icon"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5sp"
+            android:layout_toRightOf="@+id/comment_icon"
+            android:background="@drawable/box"
+            android:paddingRight="5sp" >
+
+            <TextView
+                android:id="@+id/comment_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="fill_horizontal"
+                android:padding="10sp"
+                android:text="Description"
+                android:textColor="#96a1ad"
+                android:textSize="14sp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:gravity="center"
+            android:layout_alignLeft="@+id/data_layout"
+            android:layout_below="@+id/data_layout" >
+
+            <TextView
+                android:id="@+id/name_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="0.80"
+                android:text="Commented By"
+                android:padding="5dp"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/delete_icon"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_gravity="right"
+                android:layout_weight="0.20"
+                android:src="@drawable/delete_mobile" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

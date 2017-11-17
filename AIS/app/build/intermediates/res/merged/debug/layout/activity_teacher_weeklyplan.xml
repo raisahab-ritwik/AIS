@@ -1,0 +1,240 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg" >
+
+    <RelativeLayout
+        android:id="@+id/header_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="2sp"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="50sp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+        
+         <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view2"
+            android:background="#f5f8fb" />
+
+        <ImageButton
+            android:id="@+id/add_assignment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignTop="@+id/back_btn"
+            android:layout_marginBottom="2sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginRight="5sp"
+            android:layout_marginTop="2sp"
+            android:background="@drawable/create_edit_icon" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/edt_btn"
+        android:layout_below="@+id/data_layout"
+        android:orientation="vertical" >
+
+        <!--
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@android:color/darker_gray"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/schedule_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/attendance_menu"
+                android:padding="10dp"
+                android:text="Topic Name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#f7fbff"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -->
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/layout_schedule_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <!--
+         <Button
+        android:id="@+id/edt_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/banner"
+        android:layout_margin="5dp"
+        android:background="@drawable/btn_att_submit"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/edit_weekly"
+        android:textColor="@android:color/white" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    -->
+
+    <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id"
+        android:visibility="invisible" />
+
+    <ImageButton
+        android:id="@+id/app_logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/banner"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/banner"
+        android:background="@android:color/white"
+        android:scaleType="fitCenter"
+        android:src="@drawable/footer"
+        android:textColor="#4b586c"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/txt_offline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:text="Offline Mode"
+        android:textColor="@color/offline_mode"
+        android:textSize="14sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/data_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header_layout"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:weightSum="100" >
+
+        <Spinner
+            android:id="@+id/date_btns_type"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="60"
+            android:background="@drawable/spinner_bg"
+            android:gravity="right|center"
+            android:layout_marginLeft="5dp"
+            android:textColor="@android:color/black" />
+
+        <Spinner
+            android:id="@+id/date_btns"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="40"
+            android:background="@drawable/spinner_bg"
+            android:gravity="right|center"
+
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+</RelativeLayout>

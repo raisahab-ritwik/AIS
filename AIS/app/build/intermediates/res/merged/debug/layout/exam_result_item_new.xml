@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/box"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#212932" >
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2sp" >
+
+            <TextView
+                android:id="@+id/textView_subject_name_new"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Group"
+                android:textColor="#dddfe2"
+                android:textSize="14sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:background="#2c3745"
+            android:padding="2sp"
+            android:weightSum="5" >
+
+            <TextView
+                android:id="@+id/text_subject"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.4"
+                android:text="Subject"
+                android:textColor="#dddfe2"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/text_total_marks"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Marks"
+                android:textColor="#dddfe2"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/text_marks_obtained"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Marks"
+                android:textColor="#dddfe2"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/text_grade"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.6"
+                android:gravity="center"
+                android:text="Grade"
+                android:textColor="#dddfe2"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/text_remarks"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Remarks"
+                android:textColor="#dddfe2"
+                android:textSize="12sp" />
+        </TableRow>
+    </TableLayout>
+    <!--
+         <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp" >
+    
+
+
+    
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="8sp"
+            android:paddingRight="8sp"
+            android:paddingBottom="5sp" >
+   
+
+    <TextView
+        android:id="@+id/textView_subject_name_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject"
+        android:textColor="#dddfe2"
+        android:textSize="14sp" />
+    </LinearLayout>
+    -->
+
+
+    <!--
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3sp"
+        android:layout_marginLeft="3sp"
+        android:layout_marginRight="3sp"
+        android:background="#212932" >
+
+        
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#2c3745"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Marks"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_theory_header_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Theory"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_practical_header_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Practical"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_project_header_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Project"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </TableRow>
+
+       
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2sp"
+            android:paddingLeft="5sp"
+            android:paddingRight="5sp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Obtained"
+                    android:textColor="#7d838a"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_obtained_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text=""
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_obtained_theory_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="th"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_obtained_practical_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="prc"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_obtained_project_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="proj"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingBottom="5sp"
+            android:paddingLeft="5sp"
+            android:paddingRight="5sp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Total"
+                    android:textColor="#7d838a"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView_total_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text=""
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_total_theory_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="th"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_total_practical_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="prc"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView_total_project_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="proj"
+                    android:textColor="#dddfe2"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </TableRow>
+    </TableLayout>
+    -->
+    <!-- </LinearLayout> -->
+
+</LinearLayout>

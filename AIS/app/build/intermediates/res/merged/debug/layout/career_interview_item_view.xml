@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layout_interview_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle">
+
+        <RelativeLayout
+            android:id="@+id/layout_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view4">
+
+            <TextView
+                android:id="@+id/textView_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text=" Job Title :"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textView_title"
+                android:layout_toRightOf="@id/textView_title"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_interviewtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_title">
+
+            <TextView
+                android:id="@+id/textinterviewtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text="Interview Title :"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewInterviewTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textinterviewtitle"
+                android:layout_toRightOf="@id/textinterviewtitle"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_interviewtitle">
+
+            <TextView
+                android:id="@+id/textdesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text="Description:"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textdesc"
+                android:layout_toRightOf="@id/textdesc"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_interviewdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_desc">
+
+            <TextView
+                android:id="@+id/textinterviewdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text="Interview Date :"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewInterviewDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textinterviewdate"
+                android:layout_toRightOf="@id/textinterviewdate"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_interviewdate">
+
+            <TextView
+                android:id="@+id/textsection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text="Section :"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewSection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textsection"
+                android:layout_toRightOf="@id/textsection"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_given"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_section">
+
+            <TextView
+                android:id="@+id/textgiven"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:padding="10dp"
+                android:text="Given By :"
+                android:textColor="#808080" />
+
+            <TextView
+                android:id="@+id/textViewGiven"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/textgiven"
+                android:layout_toRightOf="@id/textgiven"
+                android:padding="10dp"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

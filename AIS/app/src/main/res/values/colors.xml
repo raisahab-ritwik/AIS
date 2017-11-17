@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textbox_text">#bbc6d4</color>
+    <color name="textbox_label">#6c7e94</color>
+    <color name="button_text">#e9eef2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="offline_mode">#0E90E5</color>
+    <color name="menu_roll">#173a69</color>
+    <color name="menu_hover">#0f274a</color>
+    <color name="dialog_background">#afc6dd</color>
+    <color name="theFillColorInCheckedState">#afc6dd</color>
+
+    
+
+  <color name="primary">#009688</color>
+  <color name="primary_dark">#00796B</color>
+  <color name="primary_light">#B2DFDB</color>
+  <color name="accent">#8BC34A</color>
+  <color name="primary_text">#212121</color>
+  <color name="secondary_text">#727272</color>
+  <color name="icons">#FFFFFF</color>
+  <color name="divider">#B6B6B6</color>
+
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="calendar_text_highlighted">#ff778088</color>
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="transparent">#00000000</color>
+    <color name="pending_color">#ffcd05</color>
+
+    <!--attendance calendar -->
+    <color name="symptom_color_selected">#003366</color>
+    <color name="reaction_color_selected">#003366</color>
+    <color name="static_text_color">#003366</color>
+    <color name="journal_entry_listitem_text_color">#003366</color>
+    <color name="note_text_disabled">#333333</color>
+    <color name="sky">#0099CC</color>
+    <color name="lightgray">#e7e7e7</color>
+    <color name="lightgray02">#bfbfbf</color>
+    <color name="dark">#000015</color>
+    <color name="lightgreen">#336666</color>
+    <color name="orrange">#e33d1b</color>
+    <color name="darkorrange">#cc2303</color>
+
+    <color name="transparent_background">#00FF0000</color>
+
+    <color name="bg_color">#000816</color>
+    <color name="score_color">#0072ff</color>
+    <color name="rank_color">#ffe400</color>
+    <color name="rank_score_color">#00ff30</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+
+</resources>

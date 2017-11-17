@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="margin_right_assignment">-3px</dimen>
+    <dimen name="margin_top_assignment">-25dp</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:cacheColorHint="@android:color/transparent"
+    android:padding="6dp" >
+
+    <TextView
+        android:id="@+id/lbl_from"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:text="From"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <TextView
+        android:id="@+id/mail_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="abc@asdf.com"
+        android:layout_below="@+id/lbl_from"
+        android:background="@drawable/custom_border_help"
+        android:layout_marginRight="10dp"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <TextView
+        android:id="@+id/lbl_subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:text="Subject"
+        android:layout_below="@+id/mail_id"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <EditText
+        android:id="@+id/txt_subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_border_help"
+        android:layout_below="@+id/lbl_subject"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <TextView
+        android:id="@+id/lbl_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:text="Message"
+        android:layout_below="@+id/txt_subject"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <EditText
+        android:id="@+id/txt_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_border_help"
+        android:layout_below="@+id/lbl_message"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:minLines="5"
+        android:padding="5dp"
+        android:textColor="#FFFFFF"
+        />
+    <TextView
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:layout_below="@+id/txt_message"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:background="#1914b1"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        />
+
+
+
+
+    </RelativeLayout>

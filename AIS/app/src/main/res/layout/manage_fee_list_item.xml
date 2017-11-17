@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:cacheColorHint="@android:color/transparent"
+    >
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle">
+
+        <TextView
+            android:id="@+id/txt_payment_period"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="Fee Type :"
+            android:textColor="#a4abb4"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtPaymentPeriod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/txt_payment_period"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txt_payment_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txt_payment_period"
+            android:layout_below="@+id/txt_payment_period"
+            android:maxLines="2"
+            android:padding="5sp"
+            android:text="Payment Date :"
+            android:textColor="#a4abb4" />
+
+        <TextView
+            android:id="@+id/txtPaymentDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/txt_payment_date"
+            android:layout_alignBottom="@+id/txt_payment_date"
+            android:layout_toRightOf="@+id/txt_payment_date"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txt_payment_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txt_payment_date"
+            android:layout_below="@+id/txt_payment_date"
+            android:maxLines="2"
+            android:padding="5sp"
+            android:text="Payment Amount :"
+            android:textColor="#a4abb4" />
+
+        <TextView
+            android:id="@+id/txtPaymentAmount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/txt_payment_amount"
+            android:layout_alignBottom="@+id/txt_payment_amount"
+            android:layout_toRightOf="@+id/txt_payment_amount"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/btnInvoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:src="@drawable/invoice"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

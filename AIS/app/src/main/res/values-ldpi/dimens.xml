@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="margin_right_assignment">-3px</dimen>
+    <dimen name="margin_top_assignment">-25dp</dimen>
+
+</resources>

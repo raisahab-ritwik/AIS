@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rectangle"
+    android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view4"
+                android:padding="5dp">
+
+                <TextView
+                    android:id="@+id/textView_title"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:text="Teacher's Name :"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/textViewName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/textView_title"
+                    android:layout_toRightOf="@id/textView_title"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/btnFeedback"
+                    android:layout_below="@+id/textViewName"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/btn_att_submit"
+                    android:text="Give Feedback"
+                    android:padding="5dp"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="10dp"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+
+
+
+</RelativeLayout>

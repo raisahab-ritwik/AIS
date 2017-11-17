@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+ 
+    <string name="ga_trackingId">UA-61992102-2</string>
+   
+    
+    <!-- TESTING -->
+
+   <!--  <string name="ga_trackingId">UA-56031478-2</string> -->
+
+    <!-- Enable automatic activity tracking -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- Enable automatic exception tracking -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>  
+</resources>

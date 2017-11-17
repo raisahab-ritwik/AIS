@@ -1,0 +1,926 @@
+[
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/monthly_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/monthly_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/profile_bg_back.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/profile_bg_back.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drawer_shadow.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/drawer_shadow.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_amex.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_amex.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/menu_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_phone.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_phone.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comment_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/comment_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_logo.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_logo.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/topbar.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/topbar.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_sync.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_sync.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_mobile.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/delete_mobile.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/assignmentstests.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/assignmentstests.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/a_btn_slect.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/a_btn_slect.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_bar.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/menu_bar.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/knwedu_logo_login_bottom.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/knwedu_logo_login_bottom.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lt_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/lt_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/childprofile.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/childprofile.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chk_retake72.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/chk_retake72.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/graph_icon_assign.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/graph_icon_assign.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/comments_edit.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/comments_edit.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/damy.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/damy.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_bg.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/login_bg.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/child_on.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/child_on.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/result_icon_assignment_test_activity.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/result_icon_assignment_test_activity.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/book_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/book_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/graph.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/graph.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_logo.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/login_logo.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/coursework.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/coursework.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/back_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/l_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/l_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_roll.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/menu_roll.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/timetable.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/timetable.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/academics.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/academics.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bulletins.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bulletins.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bulletins_2.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bulletins_2.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/view_daily.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/view_daily.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_bg_back.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/login_bg_back.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/directory.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/directory.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/profile_blue_background.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/profile_blue_background.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_user_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/login_user_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_vip.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_vip.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_hover.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/menu_hover.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selection_arrow.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/selection_arrow.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/data_bar.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/data_bar.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/unchk_retake72.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/unchk_retake72.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_megaphone.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_megaphone.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/background.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/background.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/child_off.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/child_off.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/event_calendar_round_corner.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/event_calendar_round_corner.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/menu_arrow.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/menu_arrow.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/attachment_view.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/attachment_view.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/footer.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/footer.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/profile_circle.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/profile_circle.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_diner.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_diner.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cell_shape.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/cell_shape.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_visa.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_visa.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/weakly_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/weakly_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/weekly_buttan.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/weekly_buttan.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/app_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/app_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_profile.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/edit_profile.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/report_card_download.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/report_card_download.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/campusactivites.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/campusactivites.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/profile_bg.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/profile_bg.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/classfellow.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/classfellow.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lt_btn_slect.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/lt_btn_slect.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/photo_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/photo_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blue_button.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/blue_button.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drop_down_bar_down.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/drop_down_bar_down.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/splash.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cursor.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/cursor.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/box_spinner.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/box_spinner.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/signout.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/signout.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/month_and_week_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/month_and_week_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_leave.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_leave.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/off.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/off.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/profile.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/profile.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/graph_button_term.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/graph_button_term.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_rupay.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_rupay.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/design_ic_visibility.png",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exam_term_list_bg.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/exam_term_list_bg.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exam.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/exam.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/alerts.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/alerts.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/special_class.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/special_class.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_arrowright_faded.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_arrowright_faded.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_square_nodropshadow.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_square_nodropshadow.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/upload_photo.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/upload_photo.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/children.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/children.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/get_doc_btn_daily.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/get_doc_btn_daily.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/thumb.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/thumb.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_arrowleft.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_arrowleft.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bar_menu.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bar_menu.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/behavior.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/behavior.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/custom_calendar_bg_selector.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/custom_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/calendar_bg_selector.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/calendar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_master.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_master.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login_pass_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/login_pass_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_arrowleft_faded.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_arrowleft_faded.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_maestro.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_maestro.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/knwedu_logo_login.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/knwedu_logo_login.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/a_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/a_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_square_dropshadow.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_square_dropshadow.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bar_menu_slect.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bar_menu_slect.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/right.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/right.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mark_buttan.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/mark_buttan.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lock_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/lock_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_trophy.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_trophy.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_sale_tag.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_sale_tag.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/on.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/on.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bulletins_1.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bulletins_1.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/send_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/send_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_att_submit.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/btn_att_submit.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_jcb.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_jcb.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blog_pic.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/blog_pic.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/track.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/track.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_laser.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/card_laser.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/thumb_back.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/thumb_back.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_bell.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_bell.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quiz.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/quiz.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/track_back.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/track_back.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_clipboard_checkmark.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_clipboard_checkmark.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/details_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/details_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_coin.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_coin.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/attachment_exam.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/attachment_exam.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rbl_bank_logo.png",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/drawable-xhdpi-v4/rbl_bank_logo.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/classannouncements.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/classannouncements.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_uniform.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_uniform.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_flag.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_flag.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_inbox.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_inbox.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_password.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/edit_password.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_rocket.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_rocket.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drop_down_bar.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/drop_down_bar.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_book.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_book.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/list_header.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/list_header.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/result_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/result_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_background.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/home_background.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blog.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/blog.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/next.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/next.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/graph_button.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/graph_button.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_circle_today.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bg_circle_today.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/consolidated_btn_new.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/consolidated_btn_new.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/classallocations.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/classallocations.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_special.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_special.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_status.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_status.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_circle_selected.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/bg_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow_right.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/arrow_right.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/picture_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/picture_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/p_btn_slect.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/p_btn_slect.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/p_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/p_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/consolidated_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/consolidated_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/change_password_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/change_password_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/publish_buttan.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/publish_buttan.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/request_idcard.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/request_idcard.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_checkmark.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_checkmark.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_arrowright.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_arrowright.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/previouse.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/previouse.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/attachment_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/attachment_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/myschool_logo.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/myschool_logo.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/select_file_for_upload_buttan.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/select_file_for_upload_buttan.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/l_btn_slect.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/l_btn_slect.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/details_btn_new.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/details_btn_new.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/attendance_menu.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/attendance_menu.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/publish_buttan_top.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/publish_buttan_top.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/doc_color_blue.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/doc_color_blue.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_warning.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_warning.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/doc_new_button.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/doc_new_button.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drop_down_bar_side.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/drop_down_bar_side.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rectangle_box.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/drawable-xhdpi/rectangle_box.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/graph_student_.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/graph_student_.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/create_edit_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/create_edit_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/splash_bg.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/splash_bg.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/get_doc_icon_new.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/get_doc_icon_new.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reply_icon.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/reply_icon.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/organization.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/organization.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lessonplan.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/lessonplan.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_daily_btn.jpg",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/drawable-xhdpi/edit_daily_btn.jpg"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_mixpanel_android_ic_gear.png",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/drawable-xhdpi-v4/com_mixpanel_android_ic_gear.png"
+    }
+]

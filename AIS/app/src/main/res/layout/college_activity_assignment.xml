@@ -1,0 +1,262 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    tools:context=".CollegeMainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/header_layout_new"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="50sp"
+            android:text="@string/assignments"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/monthly_weekly_btn"
+            android:background="#7790ab" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view3"
+            android:background="#f5f8fb" />
+
+        <Button
+            android:id="@+id/download_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="2sp"
+            android:background="@drawable/graph_button_style"
+            android:drawableLeft="@drawable/doc_new_button"
+            android:drawablePadding="5sp"
+            android:gravity="center_vertical"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            android:text="Get Doc"
+            android:textColor="#4b586c"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/banner"
+        android:layout_below="@+id/header_layout_new"
+        android:gravity="center|top"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@drawable/rectangle" >
+
+                <LinearLayout
+                    android:id="@+id/layout_new"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/attendance_menu"
+                    android:orientation="horizontal"
+                    android:weightSum="100" >
+
+                    <TextView
+                        android:id="@+id/title_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_toLeftOf="@+id/assignment_due_txt"
+                        android:padding="10dp"
+                        android:text="Title"
+                        android:textColor="#f7fbff"/>
+
+                    <TextView
+                        android:id="@+id/assignment_due_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:gravity="right"
+                        android:padding="10dp"
+                        android:text="30/12/2016"
+                        android:textColor="#a4abb4"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/view4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:layout_below="@+id/layout_new"
+                    android:background="@android:color/black" />
+
+                <RelativeLayout
+                    android:id="@+id/layout_des"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/view4" >
+
+                    <TextView
+                        android:id="@+id/desc_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:padding="10dp"
+                        android:text="@string/description"
+                        android:textColor="#808080" />
+
+                    <ImageButton
+                        android:id="@+id/btn_graph"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginTop="5sp"
+                        android:layout_marginRight="10sp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/graph_button"
+                        android:scaleType="fitCenter"
+                        android:gravity="center"/>
+
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/assignment_txt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/layout_des"
+                    android:padding="10dp"
+                    android:text="--------------------------------------------"
+                    android:textColor="#dddfe2" />
+
+
+                <TextView
+                    android:id="@+id/assigned_date_main_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/assignment_txt"
+                    android:padding="10dp"
+                    android:text="Submission Date:"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/assigned_date_txt"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/assignment_txt"
+                    android:layout_toRightOf="@+id/assigned_date_main_txt"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:text="--/--/----"
+                    android:textColor="#a4abb4" />
+
+                <TextView
+                    android:id="@+id/assigned_marks"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/assigned_date_main_txt"
+                    android:padding="10dp"
+                    android:text="Marks:"
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/assigned_marks_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/assigned_date_main_txt"
+                    android:layout_toRightOf="@+id/assigned_marks"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:text="--/--"
+                    android:textColor="#a4abb4" />
+                <TextView
+                    android:id="@+id/comment_main_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/assigned_marks_txt"
+                    android:padding="10dp"
+                    android:text="Comment: "
+                    android:textColor="#808080" />
+
+                <TextView
+                    android:id="@+id/comment_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/assigned_marks_txt"
+                    android:layout_toRightOf="@+id/comment_main_txt"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:text="-----------"
+                    android:textColor="#dddfe2" />
+
+            </RelativeLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id" />
+
+</RelativeLayout>

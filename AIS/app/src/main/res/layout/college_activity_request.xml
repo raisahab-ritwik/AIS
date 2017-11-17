@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textStatus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5sp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_status"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="Status of Request(s)"
+        android:textColor="#b9c3ce" />
+
+    <ListView
+        android:id="@+id/listRequest"
+        android:layout_below="@+id/textStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+    <ImageView
+        android:id="@+id/adImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/ad_image"
+        android:visibility="gone"/>
+
+</RelativeLayout>

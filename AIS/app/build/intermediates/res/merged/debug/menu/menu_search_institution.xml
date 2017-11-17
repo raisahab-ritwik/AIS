@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:background="@drawable/selectinstitutions_button"
+    tools:context="com.knwedu.ourschool.SearchInstitutionActivity">
+
+    <!--android:showAsAction="collapseActionView|ifRoom"-->
+        <item android:id="@+id/action_search"
+            android:title="Search"
+            android:icon="@drawable/selectinstitutions_button"
+            android:actionViewClass="android.widget.SearchView" />
+
+
+            <searchable
+
+            android:label="@string/search"
+            android:hint="@string/search" >
+        </searchable>
+
+</menu>

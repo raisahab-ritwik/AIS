@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

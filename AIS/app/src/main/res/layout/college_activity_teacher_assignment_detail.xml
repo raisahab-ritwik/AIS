@@ -1,0 +1,234 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    tools:context=".CollegeMainActivity" >
+
+   
+    <RelativeLayout
+        android:id="@+id/header_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_bar_style"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:padding="5sp"
+            android:src="@drawable/back_icon" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/back_btn"
+            android:background="#7a99b5" />
+
+        <View
+            android:layout_width="1sp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_toRightOf="@+id/view1"
+            android:background="#f2f6fa" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignTop="@+id/back_btn"
+            android:ellipsize="end"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="50sp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/assignment_btn_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/back_btn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignTop="@+id/back_btn"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/publish_buttan_top"
+            android:padding="10dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/banner"
+        android:layout_below="@+id/header_layout"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin" >
+
+        <LinearLayout
+            android:id="@+id/layout_top"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/attendance_menu"
+            android:weightSum="100" >
+
+            <TextView
+                android:id="@+id/title_txt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/assignment_due_txt"
+                android:layout_weight="60"
+                android:padding="10dp"
+                android:text="Assignment No. 1"
+                android:textColor="#f7fbff" />
+
+            <LinearLayout
+                android:id="@+id/layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="40"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/assignment_due_txt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:gravity="right"
+                    android:padding="10dp"
+                    android:text="12/27/2013"
+                    android:textColor="@android:color/white" />
+
+                <Button
+                    android:id="@+id/btn_graph"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40sp"
+                    android:background="@drawable/graph_button_style_stu"
+                    android:drawableLeft="@drawable/doc_color_blue"
+                    android:text="Get doc"
+                    android:layout_margin="5sp"
+                    android:layout_gravity="right"
+                    android:padding="5sp"
+                    android:textColor="#1a9dfb"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/code_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_top"
+            android:background="@drawable/rectangle"
+            android:padding="10dp"
+            android:text="@string/code"
+            android:textColor="@android:color/white"
+            android:visibility="gone" />
+   
+        <TextView
+            android:id="@+id/desc_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/code_txt"
+            android:background="@drawable/rectangle"
+            android:padding="10dp"
+            android:text="@string/description"
+            android:textColor="@android:color/white"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/assignment_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/marks_txt"
+            android:layout_below="@+id/desc_txt"
+            android:background="@drawable/rectangle"
+            android:padding="10dp"
+            android:text="You are to give a detail explaination regarding the lifecycle of an Activity."
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/title_marks_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/add_results_btn"
+            android:layout_toLeftOf="@+id/marks_txt"
+            android:text="Marks:"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/marks_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/add_results_btn"
+            android:layout_alignParentRight="true"
+            android:gravity="bottom"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/assigned_date_main_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/add_results_btn"
+            android:paddingLeft="10dp"
+            android:text="Submission Date:"
+            android:textColor="#808080" />
+
+        <TextView
+            android:id="@+id/assigned_date_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/add_results_btn"
+            android:layout_marginLeft="2dp"
+            android:layout_toLeftOf="@+id/title_marks_txt"
+            android:layout_toRightOf="@+id/assigned_date_main_txt"
+            android:paddingRight="10dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/add_results_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/btn_att_submit"
+            android:text="@string/add_results"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+    <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id" />
+     <TextView 
+        android:id="@+id/txt_offline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Offline Mode"
+        android:textSize="14sp"
+        android:textColor="@android:color/white"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"/>
+
+</RelativeLayout>

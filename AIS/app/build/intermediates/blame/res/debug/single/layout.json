@@ -1,0 +1,1618 @@
+[
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_list_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_list_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/blog_comment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/blog_comment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/comment_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_request_status.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_request_status.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/timetable_item_updated.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/timetable_item_updated.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_prog_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_prog_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/loading.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/loading.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_notification.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_notification.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/rank_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/rank_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_forgot_password.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_leave_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_leave_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/special_class_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/special_class_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_ais_registration.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_ais_registration.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/campus_activity_list_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/campus_activity_list_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_exams_schedule.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_exams_schedule.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_splash.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_splash.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/orginization_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/orginization_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_fragment_card_details.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_fragment_card_details.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/magicretry_main.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/res/layout/magicretry_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_edit_profile_teacher.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_edit_profile_teacher.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/popup_layout.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/popup_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_weeklyplan.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_weeklyplan.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/blog_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/blog_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_attendance_info.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_attendance_info.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/blog_detail_screen_upper.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/blog_detail_screen_upper.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/item_list_bus.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/item_list_bus.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_schedule_edit.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_schedule_edit.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_feedback_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_feedback_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_request_to_parent_class.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_request_to_parent_class.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_selection_dwnld_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_selection_dwnld_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fees_reminder_list_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fees_reminder_list_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/behaviour_item_teacher.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/behaviour_item_teacher.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/my_calendar_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/my_calendar_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/behavior_teacher_class_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/behavior_teacher_class_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/web_access_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/web_access_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_enter_cvv.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_enter_cvv.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/manage_fee_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/manage_fee_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/behaviour_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/behaviour_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_teacher_result_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_teacher_result_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_empty.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_empty.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_list_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_list_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/blog_comment_items_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/blog_comment_items_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_signin.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_signin.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_last_choice_answer.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_last_choice_answer.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_signin.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/wallet_payment_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/wallet_payment_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_signup.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_signup.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_feedback_fragment_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_feedback_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_feedback_list_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_feedback_list_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletasdk_activity_signup.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletasdk_activity_signup.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_child_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_child_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_feedback_list_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_feedback_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_request_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_request_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_spinner_dropdown_item_custom.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_spinner_dropdown_item_custom.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/daily_diary_create_student_wise_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/daily_diary_create_student_wise_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/add_reply_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/add_reply_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_subject_schedule_each_row.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_subject_schedule_each_row.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_add_child.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_add_child.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_list_group.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_list_group.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_diary_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_diary_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/subject_schedule_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/subject_schedule_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/details_screen.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/details_screen.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/announcement_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/announcement_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/rightmenu_view_old.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/rightmenu_view_old.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_subject_detail.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_subject_detail.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_feedback.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_privacy_policy.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_privacy_policy.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_feedback_create_list_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_feedback_create_list_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_view_dummy_result.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_view_dummy_result.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/message_prompt_layout.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/message_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_parent_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_parent_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_submit_phone_mail_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_submit_phone_mail_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/manage_fee_list_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/manage_fee_list_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_assignment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_assignment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_simple_spinner_dropdown_item_custom_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_simple_spinner_dropdown_item_custom_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/ais_manage_fee_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/ais_manage_fee_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_privacy_policy.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/teacher_timetable_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/teacher_timetable_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/ais_syllabus_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/ais_syllabus_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/subject_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/subject_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/syllabus_details_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/syllabus_details_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_dialog_student_schedule.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_dialog_student_schedule.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_menu_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_menu_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_teacher_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_teacher_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_teacher_special_class_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_teacher_special_class_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_aims_manage_fees.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_aims_manage_fees.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_special_class.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_special_class.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/subject_schedule_each_row.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/subject_schedule_each_row.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_history_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_history_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_special_class.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_special_class.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/screen_gridcell.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/screen_gridcell.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_weeklyplan_add.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_weeklyplan_add.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_attachment_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_attachment_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/career_type_details_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/career_type_details_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_classes_subject_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_classes_subject_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_attendance_info.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_attendance_info.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_behaviour.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_behaviour.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_class_fellow_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_class_fellow_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_assignment_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_assignment_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/choose_action.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/choose_action.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_teacher_timetable_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_teacher_timetable_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/item_exams_report.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/item_exams_report.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_forgot_password.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/create_parent_feedback_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/create_parent_feedback_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_feedback.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_feedback.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_status.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_status.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_spinner_item_custom_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_spinner_item_custom_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_parent_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_parent_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/cb_prog_dialog.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/cb_prog_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_web_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/news_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/news_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_news.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_news.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_assignment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_assignment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_teacher_timetable.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_teacher_timetable.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_ais_help.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_ais_help.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_schedule.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_schedule.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_login_sign_up.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_login_sign_up.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/register_pin.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/register_pin.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_parent_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_parent_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_profile_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_profile_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/career_fragment_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/career_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_attendance_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_aims_registration.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_aims_registration.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/empty_screen.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/empty_screen.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_coupon_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_coupon_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/dialog_student_schedule.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/dialog_student_schedule.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_main_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_main_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_subject_detail_lesson_plan.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_subject_detail_lesson_plan.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_blog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_blog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_result.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_result.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_subject_detail.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_subject_detail.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/feedback_list_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/feedback_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_main_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_main_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_search_institution.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_search_institution.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_spinner_item_custom_weekly_plan.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_spinner_item_custom_weekly_plan.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_activity_survey.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_activity_survey.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_subject_schedule_each_row_lesson.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_subject_schedule_each_row_lesson.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_schedule_edit.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_schedule_edit.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_dialog_list_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_dialog_list_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/add_comments_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/add_comments_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_bulletin_reply.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_bulletin_reply.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/searchview.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/searchview.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_fragment_net_banking.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_fragment_net_banking.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/reminder_details_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/reminder_details_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/spinner.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/spinner.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/late_remarks_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/late_remarks_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_dialog_list_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_dialog_list_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_home_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_home_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_request_text.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_request_text.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_student_attendance_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_student_attendance_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sync.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/sync.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/assignment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/assignment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_main_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_main_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_screen_popup.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_screen_popup.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_parent_child_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_parent_child_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_schedule.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_schedule.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/prompt_transport.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/prompt_transport.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/campus_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/campus_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_parent_class_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_parent_class_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_blog_comment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_blog_comment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_dialog_failure.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_dialog_failure.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_request_to_parent.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_request_to_parent.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/items_exams_header.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/items_exams_header.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/wallet_history.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/wallet_history.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_payment_webview.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_payment_webview.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_listview_footer.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_listview_footer.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/teacher_result_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/teacher_result_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_activity_login_sign_up.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_activity_login_sign_up.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_assignment_detail.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_assignment_detail.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_edit_profile_student.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_edit_profile_student.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_middle_choice_answer.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_middle_choice_answer.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_teacher_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_teacher_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_teacher_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_teacher_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/item_exams.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/item_exams.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_card.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_card.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_progressdialog_sendingotp.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_progressdialog_sendingotp.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_request_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_request_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/cb_progressdialog.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/cb_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_activity_login.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_activity_login.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_subject_schedule_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_subject_schedule_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_class_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_class_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_home_information.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_home_information.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_assignment_detail.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_assignment_detail.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_parent_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_parent_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/spinner_text.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/spinner_text.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_graph.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_graph.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_webview.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_webview.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_webview.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_ais_signin.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_ais_signin.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/student_attendance_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/student_attendance_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_tutorial.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_tutorial.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_announcement.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_announcement.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_custom_month_year_picker.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_custom_month_year_picker.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_news_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_news_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/hostel_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/hostel_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/reminder_list_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/reminder_list_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_notification.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_notification.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_teacher_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_teacher_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/class_section_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/class_section_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/class_schedule_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/class_schedule_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_request_status.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_request_status.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_class_fellow_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_class_fellow_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/subject_schedule_each_row_lesson.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/subject_schedule_each_row_lesson.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_ais_subscription.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_ais_subscription.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_simple_spinner_item_custom_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_simple_spinner_item_custom_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_request_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_request_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/edit_comment_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/edit_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/message_teacher_prompt.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/message_teacher_prompt.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/campus_details_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/campus_details_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/parent_request_list_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/parent_request_list_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_list_bus.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_list_bus.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_first_choice_answer.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_first_choice_answer.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_fragment_stored_card.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_fragment_stored_card.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sample_calendar_picker.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/sample_calendar_picker.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_attendance.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_attendance.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_add_comments_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_add_comments_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_aims_add_subject.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_aims_add_subject.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/item_alert_points.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/item_alert_points.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_announcement_add.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_announcement_add.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_list_child_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_list_child_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/retry_otp.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/retry_otp.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/career_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/career_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_parent_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_parent_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_coupons.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_coupons.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_load_wallet_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_load_wallet_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/bank.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/bank.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_news_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_news_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_teacher_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_teacher_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_blog_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_blog_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/aims_manage_fee_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/aims_manage_fee_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/transport_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/transport_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/class_fellow_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/class_fellow_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_spinner_item_custom.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_spinner_item_custom.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/nb_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/nb_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/special_class_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/special_class_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/request_status_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/request_status_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_change_password.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_drop_down_item_line_custom.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_drop_down_item_line_custom.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/group_heading.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/group_heading.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_parent_leave_request.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_parent_leave_request.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_question_card.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_question_card.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/career_interview_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/career_interview_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_teacher_timetable.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_teacher_timetable.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/ais_transport_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/ais_transport_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_layout_swap_children.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_layout_swap_children.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_aims_add_child.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_aims_add_child.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/chart_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/chart_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_subject_detail_lesson_plan.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_subject_detail_lesson_plan.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_assignment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_assignment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/exam_result_item_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/exam_result_item_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/create_daily_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/create_daily_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/menu_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_custom_feedback.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_custom_feedback.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_edit_profile_parent.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_edit_profile_parent.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/simple_spinner_dropdown_item_custom_new.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/simple_spinner_dropdown_item_custom_new.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_announcement.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_announcement.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_schedule_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_schedule_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/career_successful_item_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/career_successful_item_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_selection_dwnld_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_selection_dwnld_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/error_page.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/error_page.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_blog_detail_screen_upper.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_blog_detail_screen_upper.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/dialog_customized.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/dialog_customized.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_activity_notification_full.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_activity_notification_full.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_change_password.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_announcement_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_announcement_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_assignment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_assignment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/walletsdk_fragment_otpverify_signup_login.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/walletsdk_fragment_otpverify_signup_login.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/daily_diary_adapter_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/daily_diary_adapter_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_news.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_news.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_syllabus_list_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_syllabus_list_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_attendance_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_graph.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_graph.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/class_fellow_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/class_fellow_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/aims_reminder_details_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/aims_reminder_details_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_sync.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_sync.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_class_fellow_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_class_fellow_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/daily_diary_student_adapter_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/daily_diary_student_adapter_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/teacher_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/teacher_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/complex1.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/complex1.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/wait_for_otp.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/wait_for_otp.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/prompt_aims_transport_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/prompt_aims_transport_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/attendance_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/attendance_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_dialog_success.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_dialog_success.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/create_daily_student_activity.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/create_daily_student_activity.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/tutorial_vp_image.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/tutorial_vp_image.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_student_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_student_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_announcement_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_announcement_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_exams_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_exams_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/aims_manage_fee_history.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/aims_manage_fee_history.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_qustom_dialog_layout.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_qustom_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_special_class_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_special_class_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_blog_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_blog_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/submit_phone_mail_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/submit_phone_mail_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_request_status_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_request_status_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_set_alert_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_set_alert_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_news_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_news_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/teacher_assignment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/teacher_assignment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_payumoney_points.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_payumoney_points.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_feedback_college.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_feedback_college.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_attendance_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_attendance_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/edit_daily_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/edit_daily_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_assignment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_assignment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/custom_request_text.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/custom_request_text.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_late_remarks_dialog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_late_remarks_dialog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_announcement_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_announcement_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_toast_layout.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_toast_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_parent_profile.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_parent_profile.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/directory_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/directory_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/syllabus_fragment.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/syllabus_fragment.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_blog_item.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_blog_item.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_add_subject.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_add_subject.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_teacher_activities.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_teacher_activities.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/mainprogress.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/res/layout/mainprogress.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_parent_class_add.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_parent_class_add.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/day_view_custom.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/day_view_custom.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_teacher_assignment_items.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_teacher_assignment_items.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/com_mixpanel_android_activity_notification_mini.xml",
+        "source": "/Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/res/layout/com_mixpanel_android_activity_notification_mini.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_main.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_main.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_blog.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_blog.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_fragment_assignment_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_fragment_assignment_list.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/college_activity_teacher_result.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/college_activity_teacher_result.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/rightmenu_view.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/rightmenu_view.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/sdk_list_group.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/res/layout/sdk_list_group.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/activity_parent_class_add.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/activity_parent_class_add.xml"
+    },
+    {
+        "merged": "/Users/knowalladmin/Downloads/ais_final/AIS/app/build/intermediates/res/merged/debug/layout/fragment_syllabus_list.xml",
+        "source": "/Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/res/layout/fragment_syllabus_list.xml"
+    }
+]

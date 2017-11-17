@@ -1,0 +1,112 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".SignInActivity" >
+
+    <ScrollView
+        android:id="@+id/layout_upper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_layout"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="100" >
+
+            <RelativeLayout
+                android:layout_width="0sp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="70"
+                android:orientation="vertical" >
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/next_btn"
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/blue_button_style"
+        android:text="@string/next_button"
+        android:textSize="14sp"
+        android:textColor="@color/button_text"
+        android:layout_marginTop="138dp"
+        android:layout_below="@+id/spinnerCountry"
+        android:layout_alignLeft="@+id/spinnerCountry"
+        android:layout_alignStart="@+id/spinnerCountry"
+        android:layout_alignRight="@+id/spinnerCountry"
+        android:layout_alignEnd="@+id/spinnerCountry" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="96sp"
+        android:layout_height="96sp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/login_logo"
+        android:layout_alignTop="@+id/layout_upper"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linearLayout2">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10sp"
+            android:layout_marginTop="2dp" >
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+    <!--android:background="@drawable/textbox_login"-->
+    <Spinner
+        android:id="@+id/spinnerCountry"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:background="@drawable/selectinstitutions_button"
+        android:paddingBottom="2dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="@string/tagline"
+        android:textStyle="italic|bold"
+        android:textSize="12sp"
+        android:typeface="normal"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

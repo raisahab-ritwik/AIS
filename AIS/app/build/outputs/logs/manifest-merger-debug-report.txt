@@ -1,0 +1,1896 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:2:1-989:12
+	package
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /Users/knowalladmin/.android/build-cache/a22cc3a89872812888886d156cc1eaca89945723/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/knowalladmin/.android/build-cache/04b198af6f4c0e7515c05e60cf5d48ba3d5921aa/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/knowalladmin/.android/build-cache/86b8e94ae56d6ad7c69bcfe54761be90bd699346/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/knowalladmin/.android/build-cache/d26da2dc9dce820a074d6f9720d964cee5a346c1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/knowalladmin/.android/build-cache/69e8fa3f53e9743dafe94eb9843437af15110bfb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/knowalladmin/.android/build-cache/3d20c685f673204c3c98beff46430ee7f4ae3131/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/knowalladmin/.android/build-cache/8c90a2ec8782aa8ee23bfb539780ae29924d08da/output/AndroidManifest.xml:18:5-42
+MERGED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /Users/knowalladmin/.android/build-cache/e0e86f58c4fe62f7d4807d25974fde6f898b1081/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/knowalladmin/.android/build-cache/792afe7218922bfc7ded5bdc7288bcedfa028006/output/AndroidManifest.xml:20:5-43
+MERGED from [com.payu.custombrowser:payu-custom-browser:5.3.6] /Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.payu.magicretry:magicretry:1.0.3] /Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/AndroidManifest.xml:11:5-14:42
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.6] /Users/knowalladmin/.android/build-cache/4ce04c867d4b8c1b753a5c6e8dc0c97e2a949853/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.9] /Users/knowalladmin/.android/build-cache/fdb224c343be866046b391ad65a902fa3db8440b/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.7] /Users/knowalladmin/.android/build-cache/4e86783ff061f7842b67ef5105f26f337ee0f4a6/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.5] /Users/knowalladmin/.android/build-cache/64c8dc16adb8ab19e71e4767f7e160549ea56a2f/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.11] /Users/knowalladmin/.android/build-cache/521c05ad21abc723d25df9ebd89fa71a7ab12ac0/output/AndroidManifest.xml:23:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.0] /Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/knowalladmin/.android/build-cache/54804bc53567878d2a3d14c32fed5be54fb88aa3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/knowalladmin/.android/build-cache/de5b017f5b07c9eaeace904435199b71459ae1ce/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.1.0] /Users/knowalladmin/.android/build-cache/3b7506a8358f69cc392466bf89452f275e60f029/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /Users/knowalladmin/.android/build-cache/12187923d6e0069c1b10045abbb31f704071aa29/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/knowalladmin/.android/build-cache/ad144e15bcecbbe7bad2d3faf4a5d3e93db8b6d3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/knowalladmin/.android/build-cache/a9ef620f587d3842b480c10b2d5c8ccb0df28d34/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/knowalladmin/.android/build-cache/9388f20f3c11eb305f759eb841992d47ec073b7a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:multidex:1.0.1] /Users/knowalladmin/.android/build-cache/e792314fb0e0b8a2a3f1e4251fe3d7f7a62b52fc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/knowalladmin/.android/build-cache/1cd8e7c67bfc66b5eddac1bcb9e7eaaab2a05110/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/knowalladmin/.android/build-cache/75d6221f3c664f58aec6c943badc4a7d23b737be/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/knowalladmin/.android/build-cache/0092b9b534816bce4f1b2fcdbfae00620c5fb9b0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/AndroidManifest.xml:14:9-39
+	android:minSdkVersion
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:14:5-71
+MERGED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#com.knwedu.comschoolapp.permission.C2D_MESSAGE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:26:5-86
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:26:22-83
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:30:5-82
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:30:22-79
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:33:5-45:16
+	android:permission
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:34:9-67
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:36:9-44:25
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:39:21-74
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:41:13-82
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:41:21-79
+service#com.knwedu.comschoolapp.GCMIntentService
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:47:5-49
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:47:14-46
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:51:5-66
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:51:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:52:5-79
+MERGED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:11:5-79
+MERGED from [com.payu.custombrowser:payu-custom-browser:5.3.6] /Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:52:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:53:5-81
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:53:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:55:5-76
+MERGED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:55:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:56:5-76
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:56:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:57:5-68
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:57:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:58:5-71
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:58:22-68
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:59:5-94
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:59:22-91
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:60:5-72
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:60:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:61:5-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:61:22-70
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:62:5-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:62:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:63:5-75
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:63:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:64:5-80
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:64:22-77
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:65:5-98
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:65:22-95
+permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:67:5-69:47
+	android:protectionLevel
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:69:9-44
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:68:9-67
+application
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:71:5-987:19
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /Users/knowalladmin/.android/build-cache/a22cc3a89872812888886d156cc1eaca89945723/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/knowalladmin/.android/build-cache/04b198af6f4c0e7515c05e60cf5d48ba3d5921aa/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/knowalladmin/.android/build-cache/86b8e94ae56d6ad7c69bcfe54761be90bd699346/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/knowalladmin/.android/build-cache/d26da2dc9dce820a074d6f9720d964cee5a346c1/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/knowalladmin/.android/build-cache/69e8fa3f53e9743dafe94eb9843437af15110bfb/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/knowalladmin/.android/build-cache/3d20c685f673204c3c98beff46430ee7f4ae3131/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/knowalladmin/.android/build-cache/8c90a2ec8782aa8ee23bfb539780ae29924d08da/output/AndroidManifest.xml:20:5-24:19
+MERGED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:56:5-91:19
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/knowalladmin/.android/build-cache/792afe7218922bfc7ded5bdc7288bcedfa028006/output/AndroidManifest.xml:22:5-20
+MERGED from [com.payu.magicretry:magicretry:1.0.3] /Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/AndroidManifest.xml:11:5-22:19
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/AndroidManifest.xml:44:5-124:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.6] /Users/knowalladmin/.android/build-cache/4ce04c867d4b8c1b753a5c6e8dc0c97e2a949853/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.9] /Users/knowalladmin/.android/build-cache/fdb224c343be866046b391ad65a902fa3db8440b/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.7] /Users/knowalladmin/.android/build-cache/4e86783ff061f7842b67ef5105f26f337ee0f4a6/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.5] /Users/knowalladmin/.android/build-cache/64c8dc16adb8ab19e71e4767f7e160549ea56a2f/output/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.11] /Users/knowalladmin/.android/build-cache/521c05ad21abc723d25df9ebd89fa71a7ab12ac0/output/AndroidManifest.xml:27:5-20
+MERGED from [com.android.support:design:25.1.0] /Users/knowalladmin/.android/build-cache/15a2c8ec26e59808e44ee1490800e502d9b8f59c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/knowalladmin/.android/build-cache/b8a7ce7bb42de082bf9721506cbac87977899cde/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/knowalladmin/.android/build-cache/54804bc53567878d2a3d14c32fed5be54fb88aa3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/knowalladmin/.android/build-cache/de5b017f5b07c9eaeace904435199b71459ae1ce/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/knowalladmin/.android/build-cache/3b7506a8358f69cc392466bf89452f275e60f029/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/knowalladmin/.android/build-cache/12187923d6e0069c1b10045abbb31f704071aa29/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/knowalladmin/.android/build-cache/ad144e15bcecbbe7bad2d3faf4a5d3e93db8b6d3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/knowalladmin/.android/build-cache/a9ef620f587d3842b480c10b2d5c8ccb0df28d34/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/knowalladmin/.android/build-cache/9388f20f3c11eb305f759eb841992d47ec073b7a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/knowalladmin/.android/build-cache/75d6221f3c664f58aec6c943badc4a7d23b737be/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/knowalladmin/.android/build-cache/0092b9b534816bce4f1b2fcdbfae00620c5fb9b0/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:75:9-41
+	android:windowSoftInputMode
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:58:9-48
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/AndroidManifest.xml:44:18-44
+	android:allowBackup
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:73:9-35
+	android:icon
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:74:9-42
+	android:theme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:76:9-40
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:72:9-65
+activity#com.knwedu.ourschool.SigninActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:78:9-91:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:81:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:80:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:82:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:79:13-63
+activity#com.knwedu.ourschool.AisSignInActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:93:9-105:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:96:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:95:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:97:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:94:13-66
+activity#com.knwedu.ourschool.RegistrationActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:109:9-113:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:112:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:111:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:113:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:110:13-69
+activity#com.knwedu.ourschool.AddChildActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:114:9-117:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:116:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:115:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:117:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:114:19-71
+activity#com.knwedu.ourschool.TeacherAddSubject
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:118:9-121:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:120:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:119:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:121:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:118:19-72
+activity#com.knwedu.ourschool.AisRegistrationActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:123:9-126:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:125:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:124:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:126:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:123:19-78
+activity#com.knwedu.ourschool.AimsRegistrationActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:128:9-131:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:130:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:129:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:131:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:128:19-79
+activity#com.knwedu.ourschool.SplashActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:132:9-175:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:136:13-49
+	android:excludeFromRecents
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:134:13-46
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:135:13-43
+	android:theme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:137:13-56
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:133:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:143:13-147:29
+	android:autoVerify
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:143:28-53
+action#android.intent.action.MAIN
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:144:17-69
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:144:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:146:17-77
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:146:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:149:13-159:29
+action#android.intent.action.VIEW
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:150:17-69
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:150:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:152:17-76
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:152:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:153:17-78
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:153:27-75
+data
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:155:17-158:47
+	android:host
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:156:21-39
+	android:scheme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:158:21-44
+	android:pathPrefix
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:157:21-43
+activity#com.knwedu.ourschool.ParentMainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:176:9-180:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:179:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:178:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:180:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:177:13-67
+activity#com.knwedu.ourschool.MainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:181:9-185:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:184:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:183:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:185:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:182:13-61
+activity#com.knwedu.ourschool.TeacherMainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:186:9-190:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:189:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:188:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:190:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:187:13-68
+activity#com.knwedu.ourschool.ChangePasswordActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:191:9-195:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:194:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:193:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:195:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:192:13-71
+activity#com.knwedu.ourschool.TeacherClassesSubjectsListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:196:9-200:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:199:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:198:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:200:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:197:13-83
+activity#com.knwedu.ourschool.TeacherStudentListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:201:9-205:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:204:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:203:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:205:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:202:13-75
+activity#com.knwedu.ourschool.ShowAttachmentActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:207:9-211:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:210:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:209:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:211:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:208:13-71
+activity#com.knwedu.ourschool.TeacherEditProfileActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:212:9-216:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:215:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:214:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:216:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:213:13-75
+activity#com.knwedu.ourschool.ParentEditProfileActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:217:9-221:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:220:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:219:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:221:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:218:13-74
+activity#com.knwedu.ourschool.BlogActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:222:9-226:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:225:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:224:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:226:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:223:13-61
+activity#com.knwedu.ourschool.StatusActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:227:9-231:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:230:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:229:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:231:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:228:13-63
+activity#com.knwedu.ourschool.PaymentWebViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:232:9-236:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:235:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:234:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:236:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:233:13-71
+activity#com.knwedu.ourschool.AssignmentActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:237:9-241:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:240:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:239:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:241:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:238:13-67
+activity#com.knwedu.ourschool.ActivitiesActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:242:9-246:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:245:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:244:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:246:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:243:13-67
+activity#com.knwedu.ourschool.TeacherClassWorkListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:247:9-251:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:250:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:249:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:251:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:248:13-77
+activity#com.knwedu.ourschool.TeacherAttendanceListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:252:9-256:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:255:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:254:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:256:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:253:13-78
+activity#com.knwedu.ourschool.TeacherClassWorkActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:257:9-261:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:260:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:259:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:261:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:258:13-73
+activity#com.knwedu.ourschool.TeacherAnnouncementActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:262:9-266:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:265:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:264:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:266:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:263:13-76
+activity#com.knwedu.ourschool.ClassWorkActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:267:9-271:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:270:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:269:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:271:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:268:13-66
+activity#com.knwedu.ourschool.AnnouncementActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:272:9-276:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:275:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:274:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:276:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:273:13-69
+activity#com.knwedu.ourschool.TeacherAnnouncementListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:285:9-289:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:288:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:287:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:289:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:286:13-80
+activity#com.knwedu.ourschool.TeacherAssignmentAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:290:9-294:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:293:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:292:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:294:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:291:13-77
+activity#com.knwedu.ourschool.TeacherAssignmentDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:295:9-299:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:298:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:297:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:299:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:296:13-80
+activity#com.knwedu.ourschool.TeacherAssignmentResultsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:300:9-304:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:303:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:302:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:304:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:301:13-81
+activity#com.knwedu.ourschool.TeacherActivityAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:305:9-309:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:308:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:307:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:309:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:306:13-75
+activity#com.knwedu.ourschool.TeacherActivityDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:310:9-314:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:313:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:312:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:314:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:311:13-78
+activity#com.knwedu.ourschool.TeacherActivityResultsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:315:9-319:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:318:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:317:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:319:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:316:13-79
+activity#com.knwedu.ourschool.TeacherTestAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:320:9-324:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:323:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:322:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:324:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:321:13-71
+activity#com.knwedu.ourschool.TeacherTestDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:325:9-329:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:328:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:327:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:329:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:326:13-74
+activity#com.knwedu.ourschool.TeacherTestResultsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:330:9-334:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:333:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:332:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:334:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:331:13-75
+activity#com.knwedu.ourschool.TestActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:335:9-339:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:338:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:337:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:339:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:336:13-61
+activity#com.knwedu.ourschool.TeacherAssignmentListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:340:9-344:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:343:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:342:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:344:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:341:13-78
+activity#com.knwedu.ourschool.TeacherActivityListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:345:9-349:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:348:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:347:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:349:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:346:13-76
+activity#com.knwedu.ourschool.TeacherTestListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:350:9-354:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:353:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:352:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:354:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:351:13-72
+activity#com.knwedu.ourschool.TeacherScheduleActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:355:9-359:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:358:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:357:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:359:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:356:13-72
+activity#com.knwedu.ourschool.TeacherScheduleEditActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:360:9-364:76
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:363:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:362:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:364:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:361:13-76
+activity#com.knwedu.ourschool.SubjectDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:365:9-369:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:368:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:367:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:369:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:366:13-70
+activity#com.knwedu.ourschool.ClassFellowListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:370:9-374:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:373:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:372:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:374:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:371:13-72
+activity#com.knwedu.ourschool.AttendanceInfoActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:375:9-379:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:378:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:377:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:379:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:376:13-71
+activity#com.knwedu.ourschool.ParentRequestStatusListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:380:9-384:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:383:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:382:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:384:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:381:13-80
+activity#com.knwedu.ourschool.AisAlertPointView
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:385:9-390:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:388:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:387:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:389:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:386:13-66
+activity#com.knwedu.ourschool.AisSubscriptionActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:392:9-397:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:395:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:394:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:396:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:393:13-72
+activity#com.knwedu.ourschool.ParentRequestStatusActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:398:9-402:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:401:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:400:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:402:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:399:13-76
+activity#com.knwedu.ourschool.ParentChildRequestActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:403:9-407:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:406:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:405:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:407:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:404:13-75
+activity#com.knwedu.ourschool.ParentChildLeaveActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:408:9-412:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:411:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:410:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:412:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:409:13-73
+activity#com.knwedu.ourschool.NewsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:413:9-417:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:416:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:415:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:417:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:414:13-61
+activity#com.knwedu.ourschool.EditStudentProfileActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:418:9-422:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:421:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:420:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:422:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:419:13-75
+activity#com.knwedu.ourschool.TutorialActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:424:9-429:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:427:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:426:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:429:13-70
+	android:theme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:428:13-56
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:425:13-65
+activity#com.knwedu.ourschool.AisTeacherDailyAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:430:9-434:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:433:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:432:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:434:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:431:13-75
+activity#com.knwedu.ourschool.AisTeacherDailyDiaryDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:436:9-440:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:439:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:438:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:440:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:437:13-83
+activity#com.knwedu.ourschool.AisTeacherDailyDiaryList
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:442:9-446:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:445:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:444:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:446:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:443:13-73
+activity#com.knwedu.ourschool.HomeInformationActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:448:9-452:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:451:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:450:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:452:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:449:13-72
+activity#com.knwedu.ourschool.GraphViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:454:9-458:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:457:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:456:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:458:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:455:13-66
+activity#com.knwedu.ourschool.ExamResultsListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:459:9-463:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:462:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:461:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:463:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:460:13-72
+activity#com.knwedu.ourschool.GraphViewExamActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:464:9-468:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:467:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:466:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:468:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:465:13-70
+activity#com.knwedu.ourschool.SubjectDetailActivityLessonPlan
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:469:9-473:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:472:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:471:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:473:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:470:13-80
+activity#com.inmobi.androidsdk.IMBrowserActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:474:9-478:75
+	android:hardwareAccelerated
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:477:13-47
+	android:configChanges
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:476:13-102
+	android:theme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:478:13-72
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:475:13-67
+activity#com.knwedu.ourschool.ForgotPasswordActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:479:9-483:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:482:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:481:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:483:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:480:13-71
+activity#com.knwedu.ourschool.SyncActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:484:9-488:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:487:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:486:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:488:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:485:13-61
+activity#com.knwedu.ourschool.ExamScheduleActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:489:9-493:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:492:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:491:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:493:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:490:13-69
+activity#com.knwedu.college.CollegeMainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:494:9-498:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:497:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:496:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:498:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:495:13-66
+activity#com.knwedu.college.CollegeAssignmentActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:499:9-503:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:502:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:501:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:503:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:500:13-72
+activity#com.knwedu.college.CollegeTestActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:504:9-508:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:507:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:506:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:508:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:505:13-66
+activity#com.knwedu.college.CollegeAnnouncementActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:509:9-513:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:512:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:511:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:513:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:510:13-74
+activity#com.knwedu.college.CollegeClassWorkActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:514:9-518:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:517:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:516:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:518:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:515:13-71
+activity#com.knwedu.college.CollegeNewsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:519:9-523:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:522:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:521:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:523:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:520:13-66
+activity#com.knwedu.college.CollegeSubjectDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:524:9-528:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:527:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:526:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:528:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:525:13-75
+activity#com.knwedu.college.CollegeClassFellowListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:529:9-533:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:532:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:531:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:533:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:530:13-77
+activity#com.knwedu.college.CollegeCareerActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:534:9-538:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:537:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:536:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:538:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:535:13-68
+activity#com.knwedu.college.CollegeFeedbackActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:539:9-543:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:542:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:541:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:543:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:540:13-70
+activity#com.knwedu.college.CollegeBlogActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:544:9-548:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:547:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:546:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:548:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:545:13-66
+activity#com.knwedu.college.CollegeParentMainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:549:9-553:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:552:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:551:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:553:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:550:13-72
+activity#com.knwedu.college.CollegeTeacherAnnouncementActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:554:9-558:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:557:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:556:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:558:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:555:13-81
+activity#com.knwedu.college.CollegeTeacherAnnouncementListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:559:9-563:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:562:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:561:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:563:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:560:13-85
+activity#com.knwedu.college.CollegeTeacherAssignmentAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:564:9-568:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:567:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:566:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:568:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:565:13-82
+activity#com.knwedu.college.CollegeTeacherAssignmentDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:569:9-573:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:572:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:571:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:573:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:570:13-85
+activity#com.knwedu.college.CollegeTeacherMainActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:574:9-578:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:577:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:576:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:578:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:575:13-73
+activity#com.knwedu.college.CollegeTeacherAssignmentListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:579:9-583:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:582:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:581:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:583:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:580:13-83
+activity#com.knwedu.college.CollegeChangePasswordActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:584:9-588:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:587:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:586:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:588:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:585:13-76
+activity#com.knwedu.college.CollegeTeacherAssignmentResultsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:589:9-593:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:592:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:591:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:593:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:590:13-86
+activity#com.knwedu.college.CollegeTeacherTestListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:594:9-598:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:597:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:596:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:598:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:595:13-77
+activity#com.knwedu.college.CollegeTeacherTestDetailActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:599:9-603:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:602:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:601:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:603:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:600:13-79
+activity#com.knwedu.college.CollegeStudentFeedback
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:604:9-608:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:607:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:606:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:608:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:605:13-69
+activity#com.knwedu.college.CollegeTeacherTestAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:609:9-613:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:612:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:611:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:613:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:610:13-76
+activity#com.knwedu.college.CollegeTeacherTestResultsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:614:9-618:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:617:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:616:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:618:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:615:13-80
+activity#com.knwedu.college.CollegeTeacherClassWorkListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:619:9-623:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:622:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:621:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:623:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:620:13-82
+activity#com.knwedu.college.CollegeTeacherClassWorkActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:624:9-628:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:627:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:626:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:628:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:625:13-78
+activity#com.knwedu.college.CollegeTeacherAttendanceListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:629:9-633:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:632:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:631:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:633:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:630:13-83
+activity#com.knwedu.college.CollegeParentChildLeaveActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:634:9-638:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:637:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:636:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:638:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:635:13-78
+activity#com.knwedu.college.CollegeParentChildRequestActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:639:9-643:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:642:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:641:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:643:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:640:13-80
+activity#com.knwedu.college.CollegeSubjectDetailActivityLessonPlan
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:644:9-648:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:647:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:646:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:648:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:645:13-85
+activity#com.knwedu.college.CollegeTeacherScheduleActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:649:9-653:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:652:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:651:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:653:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:650:13-77
+activity#com.knwedu.college.CollegeTeacherScheduleEditActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:654:9-658:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:657:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:656:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:658:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:655:13-81
+activity#com.knwedu.college.CollegeWebviewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:659:9-663:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:662:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:661:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:663:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:660:13-69
+activity#com.knwedu.college.CollegeGraphViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:664:9-668:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:667:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:666:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:668:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:665:13-71
+activity#com.knwedu.college.CollegeParentRequestStatusActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:669:9-673:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:672:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:671:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:673:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:670:13-81
+activity#com.knwedu.college.CollegeParentRequestStatusListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:674:9-678:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:677:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:676:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:678:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:675:13-85
+activity#com.knwedu.college.CollegeTeacherSpecialClassListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:679:9-683:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:682:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:681:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:683:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:680:13-85
+activity#com.knwedu.college.CollegeTeacherSpecialClassActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:684:9-688:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:687:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:686:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:688:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:685:13-81
+activity#com.knwedu.college.CollegeSpecialClassActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:689:9-693:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:692:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:691:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:693:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:690:13-74
+activity#com.knwedu.college.CollegeTeacherCampusActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:694:9-698:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:697:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:696:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:698:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:695:13-75
+activity#com.knwedu.ourschool.ClassFellowSectionListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:699:9-703:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:702:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:701:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:703:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:700:13-79
+activity#com.knwedu.ourschool.TeacherBehaviourListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:704:9-708:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:707:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:706:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:708:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:705:13-77
+activity#com.knwedu.ourschool.TeacherAddBehaviourActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:709:9-713:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:712:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:711:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:713:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:710:13-76
+activity#com.knwedu.college.CollegeForgotPasswordActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:714:9-718:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:717:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:716:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:718:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:715:13-76
+activity#com.knwedu.ourschool.ParentClassListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:719:9-723:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:722:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:721:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:723:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:720:13-72
+activity#com.knwedu.ourschool.ParentClassAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:724:9-728:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:727:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:726:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:728:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:725:13-71
+activity#com.knwedu.ourschool.ExamReportActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:729:9-733:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:732:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:731:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:733:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:730:13-67
+activity#com.knwedu.college.CollegeSyncActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:734:9-738:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:737:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:736:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:738:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:735:13-66
+activity#com.knwedu.college.CollegeParentClassListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:739:9-743:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:742:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:741:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:743:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:740:13-77
+activity#com.knwedu.college.CollegeParentClassAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:744:9-748:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:747:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:746:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:748:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:745:13-76
+activity#com.knwedu.ourschool.TeacherWeeklyplanActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:749:9-753:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:752:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:751:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:753:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:750:13-74
+activity#com.knwedu.ourschool.TeacherWeeklyplanAddActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:754:9-758:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:757:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:756:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:758:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:755:13-77
+activity#com.knwedu.ourschool.ShowAttachmentFeesActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:759:9-763:73
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:762:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:761:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:763:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:760:13-75
+receiver#com.knwedu.ourschool.push.GcmBroadcastReceiver
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:770:9-782:20
+	android:permission
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:772:13-73
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:771:13-74
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.knwedu.comschoolapp
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:773:13-781:29
+category#com.knwedu.comschoolapp
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:780:17-68
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:780:27-65
+receiver#com.inmobi.commons.analytics.androidsdk.IMAdTrackerReceiver
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:783:9-792:20
+	android:enabled
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:785:13-35
+	android:exported
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:786:13-36
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:784:13-87
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+com.android.vending.INSTALL_REFERRER+com.inmobi.share.id
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:787:13-791:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:788:17-79
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:788:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:789:17-79
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:789:25-76
+action#com.inmobi.share.id
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:790:17-62
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:790:25-59
+service#com.knwedu.ourschool.push.GcmIntentService
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:794:9-78
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:794:18-75
+service#com.inmobi.commons.internal.ActivityRecognitionManager
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:795:9-797:38
+	android:enabled
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:797:13-35
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:796:13-82
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:803:9-805:71
+	android:value
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:805:13-68
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:804:13-58
+uses-feature#0x00020000
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:808:9-810:39
+	android:glEsVersion
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:809:13-45
+	android:required
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:810:13-36
+activity#com.knwedu.ourschool.ViewDummyResult
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:812:9-814:59
+	android:theme
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:814:13-56
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:813:13-64
+activity#com.knwedu.ourschool.SyllabusDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:815:9-820:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:818:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:817:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:819:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:816:13-72
+activity#com.knwedu.college.SyllabusDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:821:9-826:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:824:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:823:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:825:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:822:13-70
+activity#com.knwedu.ourschool.PaymentReminderActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:827:9-832:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:830:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:829:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:831:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:828:13-72
+activity#com.knwedu.ourschool.PaymentFeesDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:833:9-838:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:836:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:835:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:837:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:834:13-75
+activity#com.knwedu.ourschool.WebViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:839:9-844:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:842:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:841:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:843:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:840:13-64
+activity#com.knwedu.ourschool.AisBusListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:845:9-850:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:848:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:847:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:849:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:846:13-67
+activity#com.knwedu.college.PaymentReminderActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:851:9-856:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:854:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:853:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:855:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:852:13-70
+activity#com.knwedu.college.PaymentFeesDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:857:9-862:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:860:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:859:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:861:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:858:13-73
+activity#com.knwedu.ourschool.CampusDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:866:9-871:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:869:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:868:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:870:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:867:13-70
+activity#com.knwedu.ourschool.PrivacyPolicyActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:872:9-877:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:875:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:874:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:876:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:873:13-70
+activity#com.knwedu.ourschool.CareerInterviewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:878:9-883:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:881:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:880:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:882:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:879:13-72
+activity#com.knwedu.ourschool.RequestToParentForClassActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:884:9-889:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:887:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:886:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:888:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:885:13-80
+activity#com.knwedu.ourschool.CreateParentFeedbackListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:890:9-895:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:893:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:892:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:894:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:891:13-81
+activity#com.knwedu.ourschool.TeacherDairyListActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:896:9-901:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:899:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:898:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:900:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:897:13-73
+activity#com.knwedu.ourschool.AimsPaymentFeeDetailsActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:903:9-908:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:906:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:905:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:907:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:904:13-78
+activity#com.knwedu.ourschool.AimsAddChildActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:909:9-914:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:912:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:911:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:913:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:910:13-69
+activity#com.knwedu.ourschool.AimsTeacherAddSubjectActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:916:9-921:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:919:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:918:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:920:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:917:13-78
+activity#com.knwedu.ourschool.CreateDailyDairyActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:923:9-928:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:926:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:925:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:927:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:924:13-73
+activity#com.knwedu.ourschool.EditDailyDairyActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:929:9-934:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:932:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:931:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:933:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:930:13-71
+activity#com.knwedu.ourschool.CreateDailyDairyStudentWiseActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:935:9-940:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:938:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:937:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:939:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:936:13-84
+activity#com.knwedu.ourschool.CreateDailyDairyParentActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:947:9-952:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:950:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:949:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:951:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:948:13-79
+activity#com.knwedu.ourschool.AdvertisementWebViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:953:9-958:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:956:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:955:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:957:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:954:13-77
+activity#com.knwedu.ourschool.CustomizeWebViewActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:959:9-964:20
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:962:13-49
+	android:launchMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:961:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:963:13-70
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:960:13-73
+activity#com.paytm.pgsdk.PaytmPGActivity
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:966:9-969:52
+	android:screenOrientation
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:969:13-49
+	android:configChanges
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:968:13-72
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:967:13-59
+meta-data#io.fabric.ApiKey
+ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:971:9-973:72
+	android:value
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:973:13-69
+	android:name
+		ADDED from /Users/knowalladmin/Downloads/ais_final/AIS/app/src/main/AndroidManifest.xml:972:13-44
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/knowalladmin/.android/build-cache/8c90a2ec8782aa8ee23bfb539780ae29924d08da/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/knowalladmin/.android/build-cache/8c90a2ec8782aa8ee23bfb539780ae29924d08da/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/knowalladmin/.android/build-cache/8c90a2ec8782aa8ee23bfb539780ae29924d08da/output/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.INTERNET
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:13:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/knowalladmin/.android/build-cache/4bd96fe4539af970f9708b1c7168812df2728a1e/output/AndroidManifest.xml:17:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.6] /Users/knowalladmin/.android/build-cache/4ce04c867d4b8c1b753a5c6e8dc0c97e2a949853/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.9] /Users/knowalladmin/.android/build-cache/fdb224c343be866046b391ad65a902fa3db8440b/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.7] /Users/knowalladmin/.android/build-cache/4e86783ff061f7842b67ef5105f26f337ee0f4a6/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.5] /Users/knowalladmin/.android/build-cache/64c8dc16adb8ab19e71e4767f7e160549ea56a2f/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.11] /Users/knowalladmin/.android/build-cache/521c05ad21abc723d25df9ebd89fa71a7ab12ac0/output/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:13:22-64
+uses-feature#android.hardware.telephony
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:52:5-54:36
+	android:required
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:53:9-50
+activity#com.payUMoney.sdk.SdkWebViewActivityNew
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:59:9-64:20
+	android:screenOrientation
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:61:13-45
+	android:windowSoftInputMode
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:60:13-67
+activity#com.payUMoney.sdk.SdkLoginSignUpActivity
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:65:9-70:46
+	android:screenOrientation
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:67:13-59
+	android:theme
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:70:13-43
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:66:13-68
+activity#com.payUMoney.sdk.dialog.SdkOtpProgressDialog
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:71:9-75:20
+	android:screenOrientation
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:73:13-71
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:72:13-73
+activity#com.payUMoney.sdk.SdkHomeActivityNew
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:76:9-80:20
+	android:screenOrientation
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:78:13-49
+	android:windowSoftInputMode
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:79:13-52
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:77:13-64
+activity#com.payUMoney.sdk.walledSdk.WalletSdkLoginSignUpActivity
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:81:9-86:59
+	android:screenOrientation
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:84:13-29
+	android:configChanges
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:83:13-59
+	android:theme
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:82:13-84
+activity#com.payUMoney.sdk.walledSdk.SdkHistoryActivity
+ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:87:9-90:20
+	android:windowSoftInputMode
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:89:13-52
+	android:name
+		ADDED from [AIS:payUMoneysdk:unspecified] /Users/knowalladmin/Downloads/ais_final/AIS/payUMoneysdk/build/intermediates/bundles/default/AndroidManifest.xml:88:13-74
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [com.payu.custombrowser:payu-custom-browser:5.3.6] /Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from [com.payu.custombrowser:payu-custom-browser:5.3.6] /Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from [com.payu.custombrowser:payu-custom-browser:5.3.6] /Users/knowalladmin/.android/build-cache/c8f56d4b6e1cde496f879d4a3c470a91b8790e08/output/AndroidManifest.xml:13:9-54
+activity#com.payu.magicretry.MainActivity
+ADDED from [com.payu.magicretry:magicretry:1.0.3] /Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/AndroidManifest.xml:12:9-21:20
+	android:name
+		ADDED from [com.payu.magicretry:magicretry:1.0.3] /Users/knowalladmin/.android/build-cache/cde5a81570c4366730a5c18610fc87243a8899bc/output/AndroidManifest.xml:12:19-66
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:27:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:30:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] /Users/knowalladmin/.android/build-cache/4516b8ac110fb02bb8a8785b28fc758a4959e1de/output/AndroidManifest.xml:33:22-80

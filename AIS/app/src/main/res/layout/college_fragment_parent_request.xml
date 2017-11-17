@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <Button
+        android:id="@+id/request_leave_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_leave"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/request_leave"
+        android:textColor="#b9c3ce" />
+
+    <Button
+        android:id="@+id/request_student_card_btn"
+        android:layout_below="@+id/request_leave_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_idcard"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/request_ID_card"
+        android:textColor="#b9c3ce" />
+
+    <Button
+        android:id="@+id/request_uniform_btn"
+        android:layout_below="@+id/request_student_card_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_uniform"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/request_uniform"
+        android:textColor="#b9c3ce" />
+
+    <Button
+        android:id="@+id/request_books_btn"
+        android:layout_below="@+id/request_uniform_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_book"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/request_books"
+        android:textColor="#b9c3ce" />
+
+    <Button
+        android:id="@+id/request_special_btn"
+        android:layout_below="@+id/request_books_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_special"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/special_request"
+        android:textColor="#b9c3ce" />
+
+    <Button
+        android:id="@+id/request_status_btn"
+        android:layout_below="@+id/request_special_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_status"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/requests_status"
+        android:textColor="#b9c3ce" />
+    
+    
+     <com.inmobi.monetization.IMBanner
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5sp"
+        adSize="15"
+        appId="@string/InMobi_Property_Id" />
+
+</RelativeLayout>

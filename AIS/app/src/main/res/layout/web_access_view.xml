@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header_layout"
+        android:layout_above="@+id/banner"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@drawable/rectangle" >
+
+                <LinearLayout
+                    android:id="@+id/layout_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/attendance_menu"
+                    android:weightSum="100" >
+
+                    <TextView
+                        android:id="@+id/title_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_toLeftOf="@+id/assignment_due_txt"
+                        android:layout_weight="60"
+                        android:padding="10dp"
+                        android:text="Web access URL and UNICODE"
+                        android:textColor="#f7fbff" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/view1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:layout_below="@+id/layout_title"
+                    android:background="@android:color/black" />
+
+                <TextView
+                    android:id="@+id/tvURL"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/view1"
+                    android:padding="5dp"
+                    android:text="@string/webaccess_url"
+                    android:textColor="#dddfe2" />
+                 <TextView
+                    android:id="@+id/tvCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvURL"
+                    android:padding="10dp"
+                    android:textIsSelectable="true"
+                    android:textColor="#dddfe2" />
+            </RelativeLayout>
+        </ScrollView>
+    </LinearLayout>
+   
+</RelativeLayout>

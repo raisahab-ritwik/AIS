@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textRequest"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/blue_button"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableLeft="@drawable/request_leave"
+        android:drawablePadding="5sp"
+        android:gravity="left|center_vertical"
+        android:padding="5sp"
+        android:text="@string/request_leave"
+        android:textColor="#b9c3ce" />
+
+</LinearLayout>

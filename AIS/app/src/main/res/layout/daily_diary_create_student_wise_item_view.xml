@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:cacheColorHint="@android:color/transparent"
+    android:background="@drawable/textbox"
+    android:padding="5dp">
+
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New CheckBox"
+        android:layout_centerVertical="true"
+        android:id="@+id/checkBoxName"
+        android:layout_alignParentLeft="true"
+        android:textColor="@color/white" />
+    <TextView
+        android:id="@+id/tvCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Value"
+        android:textColor="@color/white"
+        android:paddingRight="5dp" />
+</RelativeLayout>
